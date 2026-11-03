@@ -1,9 +1,8 @@
-# Earnings-Alerts
-
 # Sales-growth screener
 
 Checks SEC EDGAR every hour for new 10-Q and 10-K filings from US-listed companies,
-screens them for rapid sales growth, and emails you the matches.
+screens them for rapid sales growth, and posts matches as a GitHub issue that @mentions you,
+so GitHub emails you about it.
 
 ## What it checks
 
@@ -32,14 +31,13 @@ so alerts arrive after the initial earnings-day move.
 
 ## Setup
 
-### 1. Gather three credentials
+### 1. Gather credentials
 - **SEC identity:** SEC requires a name and email in every request, e.g. `Jane Doe jane@example.com`.
-- **Gmail app password:** Turn on 2-Step Verification for the Google account, then create an
-  app password at myaccount.google.com → Security → App passwords. Use the 16-character code,
-  not your regular password. (Other email providers work too; set `SMTP_HOST`/`SMTP_PORT`.)
 - **Financial Modeling Prep API key:** Sign up at financialmodelingprep.com. Make sure your plan
   includes the *Earnings* and *Analyst Estimates* endpoints. Without a key the screener still
   runs, minus the surprise and revision checks.
+
+No email password is needed: alerts go out through GitHub's own notifications.
 
 ### 2. Create the repository
 1. Create a new GitHub repository. **Public** is recommended: Actions minutes are unlimited for
@@ -51,20 +49,16 @@ so alerts arrive after the initial earnings-day move.
 
 ### 3. Add secrets
 In the repository, go to **Settings → Secrets and variables → Actions → New repository secret**
-and add:
+and add `SEC_USER_AGENT` (`Your Name you@example.com`) and `FMP_API_KEY`.
 
-| Name | Value |
-|---|---|
-| `SEC_USER_AGENT` | `Your Name you@example.com` |
-| `EMAIL_USER` | Gmail address that sends the alerts |
-| `EMAIL_APP_PASSWORD` | The 16-character app password |
-| `EMAIL_TO` | Where alerts go (optional; defaults to `EMAIL_USER`; comma-separate several) |
-| `FMP_API_KEY` | Your FMP key |
+### 4. Turn it on and test alerts
+Open the **Actions** tab, enable workflows if prompted, select **Sales growth screener**, click
+**Run workflow**, check **Post a test alert**, and run it. You should get an email from GitHub
+about a new issue. After that it runs every hour on its own and posts an issue only when
+something matches. GitHub emails you if a run fails.
 
-### 4. Turn it on
-Open the **Actions** tab, enable workflows if prompted, select **Sales growth screener**, and click
-**Run workflow** to test it. After that it runs every hour on its own. You'll get an email only
-when something matches. GitHub emails you if a run fails.
+If the test email doesn't arrive, check github.com → Settings → Notifications and make sure
+email is enabled for "Participating, @mentions and custom" and for "Watching."
 
 ## Testing locally
 
@@ -73,7 +67,7 @@ pip install requests
 export SEC_USER_AGENT="Your Name you@example.com"
 export FMP_API_KEY=...
 python screener.py --test NVDA      # screen one company, no email, no state changes
-DRY_RUN=1 python screener.py        # full run, prints matches instead of emailing
+DRY_RUN=1 python screener.py        # full run, prints matches instead of posting
 ```
 
 ## Notes
