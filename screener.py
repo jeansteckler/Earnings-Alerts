@@ -5,26 +5,24 @@ Sales-growth screener.
 Every run (hourly via GitHub Actions):
   1. Reads SEC EDGAR's live feed of new 10-Q and 10-K filings.
   2. Pulls each filer's XBRL financial data from SEC and computes revenue growth,
-     acceleraåçtion, gross margin, DSO, and RPO / deferred revenue trends.
+     acceleration, gross margin, DSO, and RPO / deferred revenue trends.
   3. For companies that pass the growth bar, checks the revenue surprise
      against analyst consensus (Financial Modeling Prep).
   4. Once a day, checks flagged companies for upward analyst revenue revisions.
-  5. Emails you any matches.
+  5. Posts any matches as a GitHub issue that @mentions you, so GitHub
+     emails you about it.
 
 Run `python screener.py --test TICKER` to check a single company without
-touching state or sending email.
+touching state or posting alerts.
 """
 
 import datetime as dt
 import json
 import os
 import re
-import smtplib
 import sys
 import time
 import xml.etree.ElementTree as ET
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 
 import requests
 
@@ -73,11 +71,11 @@ DEFERRED_TAGS = ["ContractWithCustomerLiabilityCurrent", "DeferredRevenueCurrent
 
 SEC_USER_AGENT = os.environ.get("SEC_USER_AGENT", "").strip()
 FMP_API_KEY = os.environ.get("FMP_API_KEY", "").strip()
-EMAIL_USER = os.environ.get("EMAIL_USER", "").strip()
-EMAIL_APP_PASSWORD = os.environ.get("EMAIL_APP_PASSWORD", "").strip()
-EMAIL_TO = os.environ.get("EMAIL_TO", "").strip() or EMAIL_USER
-SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", "465"))
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "").strip()  # set by GitHub Actions
+ALERT_MENTION = os.environ.get("ALERT_MENTION", "").strip() or os.environ.get(
+    "GITHUB_REPOSITORY_OWNER", "").strip()
+TEST_ALERT = os.environ.get("TEST_ALERT", "").lower() in ("1", "true", "yes")
 DRY_RUN = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -445,59 +443,62 @@ def check_revisions(state):
 
 
 # ---------------------------------------------------------------------------
-# Email
+# Alerts (GitHub issues)
 # ---------------------------------------------------------------------------
 
-def build_email(matches, revisions):
+def build_alert(matches, revisions):
     parts = []
     if matches:
         parts.append(f"{len(matches)} new filing{'s' if len(matches) != 1 else ''}")
     if revisions:
         parts.append(f"{len(revisions)} estimate revision{'s' if len(revisions) != 1 else ''}")
-    subject = "Sales-growth screener: " + ", ".join(parts)
+    title = (f"Sales-growth screener {dt.date.today().isoformat()}: "
+             + ", ".join(parts))
 
-    html = ["<div style='font-family:Arial,sans-serif;font-size:14px'>"]
-    text = []
+    lines = []
+    if ALERT_MENTION:
+        lines.append(f"@{ALERT_MENTION} new screener results:\n")
     if matches:
-        html.append("<h3>New filings that meet the criteria</h3>")
+        lines.append("## New filings that meet the criteria\n")
         for m in sorted(matches, key=lambda m: (-len(m["signals"]), -m["yoy"])):
             surprise = (f" · Revenue vs. consensus: {pct(m['surprise'])}"
                         if m.get("surprise") is not None else "")
-            html.append(
-                f"<p><b>{m['ticker']}</b> — {m['name']} ({m['form']}, quarter ended "
-                f"{m['period_end']})<br>Revenue {money(m['revenue'])}, "
-                f"YoY {pct(m['yoy'])} (bar {m['growth_bar'] * 100:.0f}%), "
-                f"prior quarter {pct(m['yoy_prev'])}{surprise}<br>"
-                + "".join(f"✔ {s}<br>" for s in m["signals"])
-                + "".join(f"⚠ {w}<br>" for w in m["warnings"])
-                + f"<a href='{m['url']}'>Filing on SEC EDGAR</a></p>")
-            text.append(f"{m['ticker']} {m['name']}: YoY {pct(m['yoy'])}; "
-                        + "; ".join(m["signals"] + m["warnings"]) + f" {m['url']}")
+            lines.append(
+                f"### {m['ticker']} — {m['name']}\n"
+                f"{m['form']}, quarter ended {m['period_end']} · "
+                f"[Filing on SEC EDGAR]({m['url']})\n\n"
+                f"Revenue {money(m['revenue'])}, YoY {pct(m['yoy'])} "
+                f"(bar {m['growth_bar'] * 100:.0f}%), prior quarter "
+                f"{pct(m['yoy_prev'])}{surprise}\n")
+            lines += [f"- ✔ {x}" for x in m["signals"]]
+            lines += [f"- ⚠ {x}" for x in m["warnings"]]
+            lines.append("")
     if revisions:
-        html.append("<h3>Upward analyst revenue revisions (previously flagged)</h3>")
+        lines.append("## Upward analyst revenue revisions (previously flagged)\n")
         for r in revisions:
-            line = (f"{r['ticker']} — {r['name']}: estimate for quarter ending "
-                    f"{r['period']} up {pct(r['change'])} since {r['since']} "
-                    f"({money(r['from'])} → {money(r['to'])})")
-            html.append(f"<p>{line}</p>")
-            text.append(line)
-    html.append("<p style='color:#777;font-size:12px'>Automated screen of SEC "
-                "filings. Thresholds are rules of thumb; verify before acting.</p></div>")
-    return subject, "\n".join(html), "\n".join(text)
+            lines.append(f"- **{r['ticker']}** — {r['name']}: estimate for quarter ending "
+                         f"{r['period']} up {pct(r['change'])} since {r['since']} "
+                         f"({money(r['from'])} → {money(r['to'])})")
+        lines.append("")
+    lines.append("_Automated screen of SEC filings. Thresholds are rules of thumb; "
+                 "verify before acting. Close this issue once you've reviewed it._")
+    body = "\n".join(lines)
+    if len(body) > 60000:
+        body = body[:60000] + "\n\n_(Truncated: too many results for one issue.)_"
+    return title, body
 
 
-def send_email(subject, html, text):
+def post_alert(title, body):
     if DRY_RUN:
-        log(f"\n[DRY RUN] {subject}\n{text}\n")
+        log(f"\n[DRY RUN] {title}\n{body}\n")
         return
-    msg = MIMEMultipart("alternative")
-    msg["Subject"], msg["From"], msg["To"] = subject, EMAIL_USER, EMAIL_TO
-    msg.attach(MIMEText(text, "plain", "utf-8"))
-    msg.attach(MIMEText(html, "html", "utf-8"))
-    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as s:
-        s.login(EMAIL_USER, EMAIL_APP_PASSWORD)
-        s.sendmail(EMAIL_USER, [a.strip() for a in EMAIL_TO.split(",")], msg.as_string())
-    log(f"Email sent: {subject}")
+    r = requests.post(
+        f"https://api.github.com/repos/{GITHUB_REPOSITORY}/issues",
+        headers={"Authorization": f"Bearer {GITHUB_TOKEN}",
+                 "Accept": "application/vnd.github+json"},
+        json={"title": title, "body": body}, timeout=30)
+    r.raise_for_status()
+    log(f"Alert posted: {r.json().get('html_url')}")
 
 
 # ---------------------------------------------------------------------------
@@ -542,6 +543,11 @@ def screen(filing, ticker, facts):
 
 
 def run():
+    if TEST_ALERT:
+        post_alert("Sales-growth screener: test alert",
+                   (f"@{ALERT_MENTION} " if ALERT_MENTION else "")
+                   + "This is a test. If you got an email about it, alerts are working. "
+                   "You can close this issue.")
     state = load_state()
     try:
         now = dt.datetime.now(dt.timezone.utc)
@@ -585,7 +591,7 @@ def run():
 
         revisions = check_revisions(state)
         if matches or revisions:
-            send_email(*build_email(matches, revisions))
+            post_alert(*build_alert(matches, revisions))
         else:
             log("No matches this run.")
     finally:
@@ -614,6 +620,6 @@ if __name__ == "__main__":
     if len(sys.argv) == 3 and sys.argv[1] == "--test":
         test(sys.argv[2])
     else:
-        if not DRY_RUN and not (EMAIL_USER and EMAIL_APP_PASSWORD):
-            sys.exit("Set EMAIL_USER and EMAIL_APP_PASSWORD, or DRY_RUN=1.")
+        if not DRY_RUN and not (GITHUB_TOKEN and GITHUB_REPOSITORY):
+            sys.exit("Run inside GitHub Actions (needs GITHUB_TOKEN), or set DRY_RUN=1.")
         run()
