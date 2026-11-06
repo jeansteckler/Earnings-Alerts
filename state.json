@@ -1,13 +1,5 @@
 {
  "queue": {
-  "0000008858-26-000123": {
-   "accession": "0000008858-26-000123",
-   "attempts": 0,
-   "cik": 8858,
-   "form": "10-Q",
-   "name": "AVNET INC",
-   "updated": "2026-11-05T17:37:08-05:00"
-  },
   "0000019871-26-000025": {
    "accession": "0000019871-26-000025",
    "attempts": 0,
@@ -24,6 +16,22 @@
    "name": "KINGSTONE COMPANIES, INC.",
    "updated": "2026-11-06T10:42:06-05:00"
   },
+  "0000049071-26-000066": {
+   "accession": "0000049071-26-000066",
+   "attempts": 0,
+   "cik": 49071,
+   "form": "10-Q",
+   "name": "HUMANA INC",
+   "updated": "2026-11-06T14:14:26-05:00"
+  },
+  "0000052827-26-000106": {
+   "accession": "0000052827-26-000106",
+   "attempts": 0,
+   "cik": 52827,
+   "form": "10-Q",
+   "name": "RAYONIER INC",
+   "updated": "2026-11-06T17:14:25-05:00"
+  },
   "0000063908-26-000083": {
    "accession": "0000063908-26-000083",
    "attempts": 0,
@@ -31,14 +39,6 @@
    "form": "10-Q",
    "name": "MCDONALDS CORP",
    "updated": "2026-11-06T12:07:09-05:00"
-  },
-  "0000067716-26-000086": {
-   "accession": "0000067716-26-000086",
-   "attempts": 0,
-   "cik": 67716,
-   "form": "10-Q",
-   "name": "MDU RESOURCES GROUP INC",
-   "updated": "2026-11-05T20:05:31-05:00"
   },
   "0000108985-26-000097": {
    "accession": "0000108985-26-000097",
@@ -48,13 +48,61 @@
    "name": "YORK WATER CO",
    "updated": "2026-11-06T11:27:24-05:00"
   },
-  "0000708821-26-000116": {
-   "accession": "0000708821-26-000116",
+  "0000316709-26-000038": {
+   "accession": "0000316709-26-000038",
    "attempts": 0,
-   "cik": 708821,
+   "cik": 316709,
    "form": "10-Q",
-   "name": "PAR TECHNOLOGY CORP",
-   "updated": "2026-11-05T17:18:08-05:00"
+   "name": "SCHWAB CHARLES CORP",
+   "updated": "2026-11-06T16:22:54-05:00"
+  },
+  "0000351569-26-000163": {
+   "accession": "0000351569-26-000163",
+   "attempts": 0,
+   "cik": 351569,
+   "form": "10-Q",
+   "name": "Ameris Bancorp",
+   "updated": "2026-11-06T13:09:44-05:00"
+  },
+  "0000354707-26-000078": {
+   "accession": "0000354707-26-000078",
+   "attempts": 0,
+   "cik": 46207,
+   "form": "10-Q",
+   "name": "HAWAIIAN ELECTRIC CO INC",
+   "updated": "2026-11-06T16:09:44-05:00"
+  },
+  "0000355811-26-000065": {
+   "accession": "0000355811-26-000065",
+   "attempts": 0,
+   "cik": 355811,
+   "form": "10-Q",
+   "name": "GENTEX CORP",
+   "updated": "2026-11-06T14:01:26-05:00"
+  },
+  "0000356171-26-000123": {
+   "accession": "0000356171-26-000123",
+   "attempts": 0,
+   "cik": 356171,
+   "form": "10-Q",
+   "name": "TRICO BANCSHARES /",
+   "updated": "2026-11-06T17:13:50-05:00"
+  },
+  "0000700564-26-000040": {
+   "accession": "0000700564-26-000040",
+   "attempts": 0,
+   "cik": 700564,
+   "form": "10-Q",
+   "name": "FULTON FINANCIAL CORP",
+   "updated": "2026-11-06T16:31:19-05:00"
+  },
+  "0000706129-26-000087": {
+   "accession": "0000706129-26-000087",
+   "attempts": 0,
+   "cik": 706129,
+   "form": "10-Q",
+   "name": "HORIZON BANCORP INC /IN/",
+   "updated": "2026-11-06T16:18:49-05:00"
   },
   "0000708955-26-000212": {
    "accession": "0000708955-26-000212",
@@ -63,6 +111,14 @@
    "form": "10-Q",
    "name": "FIRST FINANCIAL BANCORP /OH/",
    "updated": "2026-11-06T08:55:46-05:00"
+  },
+  "0000712537-26-000042": {
+   "accession": "0000712537-26-000042",
+   "attempts": 0,
+   "cik": 712537,
+   "form": "10-Q",
+   "name": "FIRST COMMONWEALTH FINANCIAL CORP /PA/",
+   "updated": "2026-11-06T17:07:07-05:00"
   },
   "0000714395-26-000045": {
    "accession": "0000714395-26-000045",
@@ -80,13 +136,21 @@
    "name": "HILLS BANCORPORATION",
    "updated": "2026-11-06T10:16:47-05:00"
   },
-  "0000766421-26-000049": {
-   "accession": "0000766421-26-000049",
+  "0000775215-26-000099": {
+   "accession": "0000775215-26-000099",
    "attempts": 0,
-   "cik": 766421,
+   "cik": 775215,
    "form": "10-Q",
-   "name": "ALASKA AIR GROUP, INC.",
-   "updated": "2026-11-05T19:29:12-05:00"
+   "name": "HBT Financial, Inc.",
+   "updated": "2026-11-06T16:03:14-05:00"
+  },
+  "0000779152-26-000098": {
+   "accession": "0000779152-26-000098",
+   "attempts": 0,
+   "cik": 779152,
+   "form": "10-Q",
+   "name": "JACK HENRY & ASSOCIATES INC",
+   "updated": "2026-11-06T13:40:45-05:00"
   },
   "0000798941-26-000044": {
    "accession": "0000798941-26-000044",
@@ -95,6 +159,22 @@
    "form": "10-Q",
    "name": "FIRST CITIZENS BANCSHARES INC /DE/",
    "updated": "2026-11-06T08:42:05-05:00"
+  },
+  "0000799233-26-000047": {
+   "accession": "0000799233-26-000047",
+   "attempts": 0,
+   "cik": 799233,
+   "form": "10-Q",
+   "name": "HEARTLAND EXPRESS INC",
+   "updated": "2026-11-06T17:14:54-05:00"
+  },
+  "0000814547-26-000042": {
+   "accession": "0000814547-26-000042",
+   "attempts": 0,
+   "cik": 814547,
+   "form": "10-K",
+   "name": "FAIR ISAAC CORP",
+   "updated": "2026-11-06T14:06:21-05:00"
   },
   "0000821130-26-000052": {
    "accession": "0000821130-26-000052",
@@ -106,11 +186,19 @@
   },
   "0000831001-26-000056": {
    "accession": "0000831001-26-000056",
-   "attempts": 0,
+   "attempts": 1,
    "cik": 831001,
    "form": "10-Q",
    "name": "CITIGROUP INC",
    "updated": "2026-11-05T17:14:43-05:00"
+  },
+  "0000831259-26-000051": {
+   "accession": "0000831259-26-000051",
+   "attempts": 0,
+   "cik": 831259,
+   "form": "10-Q",
+   "name": "FREEPORT-MCMORAN INC",
+   "updated": "2026-11-06T12:41:54-05:00"
   },
   "0000832428-26-000043": {
    "accession": "0000832428-26-000043",
@@ -122,35 +210,59 @@
   },
   "0000835324-26-000004": {
    "accession": "0000835324-26-000004",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 835324,
    "form": "10-Q",
    "name": "Stock Yards Bancorp, Inc.",
    "updated": "2026-11-05T14:12:21-05:00"
   },
-  "0000837465-26-000026": {
-   "accession": "0000837465-26-000026",
+  "0000845877-26-000139": {
+   "accession": "0000845877-26-000139",
    "attempts": 0,
-   "cik": 837465,
+   "cik": 845877,
    "form": "10-Q",
-   "name": "Callaway Golf Co",
-   "updated": "2026-11-05T17:18:56-05:00"
+   "name": "FEDERAL AGRICULTURAL MORTGAGE CORP",
+   "updated": "2026-11-06T16:05:52-05:00"
+  },
+  "0000850141-26-000041": {
+   "accession": "0000850141-26-000041",
+   "attempts": 0,
+   "cik": 850141,
+   "form": "10-Q",
+   "name": "HORACE MANN EDUCATORS CORP /DE/",
+   "updated": "2026-11-06T15:47:53-05:00"
   },
   "0000895421-26-000293": {
    "accession": "0000895421-26-000293",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 895421,
    "form": "10-Q",
    "name": "MORGAN STANLEY",
    "updated": "2026-11-05T16:21:51-05:00"
   },
-  "0000909494-26-000013": {
-   "accession": "0000909494-26-000013",
+  "0000898173-26-000053": {
+   "accession": "0000898173-26-000053",
    "attempts": 0,
-   "cik": 909494,
+   "cik": 898173,
    "form": "10-Q",
-   "name": "TUCOWS INC /PA/",
-   "updated": "2026-11-05T17:03:14-05:00"
+   "name": "O REILLY AUTOMOTIVE INC",
+   "updated": "2026-11-06T16:35:45-05:00"
+  },
+  "0000898174-26-000040": {
+   "accession": "0000898174-26-000040",
+   "attempts": 0,
+   "cik": 898174,
+   "form": "10-Q",
+   "name": "REINSURANCE GROUP OF AMERICA INC",
+   "updated": "2026-11-06T16:20:48-05:00"
+  },
+  "0000910073-26-000084": {
+   "accession": "0000910073-26-000084",
+   "attempts": 0,
+   "cik": 910073,
+   "form": "10-Q",
+   "name": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
+   "updated": "2026-11-06T16:15:04-05:00"
   },
   "0000922224-26-000052": {
    "accession": "0000922224-26-000052",
@@ -168,13 +280,37 @@
    "name": "Magnolia Bancorp, Inc.",
    "updated": "2026-11-06T10:28:29-05:00"
   },
-  "0000934549-26-000044": {
-   "accession": "0000934549-26-000044",
+  "0000928054-26-000102": {
+   "accession": "0000928054-26-000102",
    "attempts": 0,
-   "cik": 934549,
+   "cik": 928054,
    "form": "10-Q",
-   "name": "ACACIA RESEARCH CORP",
-   "updated": "2026-11-05T17:22:28-05:00"
+   "name": "FLOTEK INDUSTRIES INC/CN/",
+   "updated": "2026-11-06T16:02:07-05:00"
+  },
+  "0001002910-26-000032": {
+   "accession": "0001002910-26-000032",
+   "attempts": 0,
+   "cik": 18654,
+   "form": "10-Q",
+   "name": "Ameren Illinois Co",
+   "updated": "2026-11-06T14:26:31-05:00"
+  },
+  "0001004702-26-000125": {
+   "accession": "0001004702-26-000125",
+   "attempts": 0,
+   "cik": 1004702,
+   "form": "10-Q",
+   "name": "OCEANFIRST FINANCIAL CORP",
+   "updated": "2026-11-06T16:17:39-05:00"
+  },
+  "0001010470-26-000015": {
+   "accession": "0001010470-26-000015",
+   "attempts": 0,
+   "cik": 1010470,
+   "form": "10-Q",
+   "name": "PROVIDENT FINANCIAL HOLDINGS INC",
+   "updated": "2026-11-06T13:15:10-05:00"
   },
   "0001013272-26-000026": {
    "accession": "0001013272-26-000026",
@@ -186,11 +322,19 @@
   },
   "0001030469-26-000047": {
    "accession": "0001030469-26-000047",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1030469,
    "form": "10-Q",
    "name": "OFG BANCORP",
    "updated": "2026-11-05T13:21:34-05:00"
+  },
+  "0001036262-26-000067": {
+   "accession": "0001036262-26-000067",
+   "attempts": 0,
+   "cik": 1036262,
+   "form": "10-Q",
+   "name": "INTEST CORP",
+   "updated": "2026-11-06T16:04:10-05:00"
   },
   "0001037540-26-000043": {
    "accession": "0001037540-26-000043",
@@ -207,6 +351,14 @@
    "form": "10-Q",
    "name": "METTLER TOLEDO INTERNATIONAL INC/",
    "updated": "2026-11-06T10:00:06-05:00"
+  },
+  "0001041061-26-000210": {
+   "accession": "0001041061-26-000210",
+   "attempts": 0,
+   "cik": 1041061,
+   "form": "10-Q",
+   "name": "YUM BRANDS INC",
+   "updated": "2026-11-06T14:39:43-05:00"
   },
   "0001051512-26-000078": {
    "accession": "0001051512-26-000078",
@@ -232,13 +384,21 @@
    "name": "Dauch Corp",
    "updated": "2026-11-06T12:08:37-05:00"
   },
-  "0001064728-26-000070": {
-   "accession": "0001064728-26-000070",
+  "0001062993-26-005803": {
+   "accession": "0001062993-26-005803",
    "attempts": 0,
-   "cik": 1064728,
+   "cik": 1997296,
    "form": "10-Q",
-   "name": "PEABODY ENERGY CORP",
-   "updated": "2026-11-06T06:37:22-05:00"
+   "name": "Medicus Pharma Ltd.",
+   "updated": "2026-11-06T16:06:01-05:00"
+  },
+  "0001069157-26-000051": {
+   "accession": "0001069157-26-000051",
+   "attempts": 0,
+   "cik": 1069157,
+   "form": "10-Q",
+   "name": "EAST WEST BANCORP INC",
+   "updated": "2026-11-06T16:04:41-05:00"
   },
   "0001070750-26-000156": {
    "accession": "0001070750-26-000156",
@@ -247,14 +407,6 @@
    "form": "10-Q",
    "name": "HOST HOTELS & RESORTS L.P.",
    "updated": "2026-11-06T12:11:04-05:00"
-  },
-  "0001071236-26-000069": {
-   "accession": "0001071236-26-000069",
-   "attempts": 0,
-   "cik": 1071236,
-   "form": "10-Q",
-   "name": "RED RIVER BANCSHARES INC",
-   "updated": "2026-11-05T17:39:47-05:00"
   },
   "0001074828-26-000107": {
    "accession": "0001074828-26-000107",
@@ -272,6 +424,14 @@
    "name": "Cardio Diagnostics Holdings, Inc.",
    "updated": "2026-11-06T08:00:29-05:00"
   },
+  "0001084048-26-000052": {
+   "accession": "0001084048-26-000052",
+   "attempts": 0,
+   "cik": 1084048,
+   "form": "10-Q",
+   "name": "ZIFF DAVIS, INC.",
+   "updated": "2026-11-06T16:03:50-05:00"
+  },
   "0001084869-26-000057": {
    "accession": "0001084869-26-000057",
    "attempts": 0,
@@ -280,101 +440,45 @@
    "name": "1 800 FLOWERS COM INC",
    "updated": "2026-11-06T08:28:03-05:00"
   },
-  "0001091667-26-000073": {
-   "accession": "0001091667-26-000073",
+  "0001086222-26-000100": {
+   "accession": "0001086222-26-000100",
    "attempts": 0,
-   "cik": 1091667,
+   "cik": 1086222,
    "form": "10-Q",
-   "name": "CHARTER COMMUNICATIONS, INC. /MO/",
-   "updated": "2026-11-06T07:01:52-05:00"
+   "name": "AKAMAI TECHNOLOGIES INC",
+   "updated": "2026-11-06T16:06:38-05:00"
   },
-  "0001099219-26-000062": {
-   "accession": "0001099219-26-000062",
+  "0001089819-26-000017": {
+   "accession": "0001089819-26-000017",
    "attempts": 0,
-   "cik": 1099219,
+   "cik": 18672,
    "form": "10-Q",
-   "name": "METLIFE INC",
-   "updated": "2026-11-05T21:14:37-05:00"
+   "name": "CLECO POWER LLC",
+   "updated": "2026-11-06T16:10:16-05:00"
+  },
+  "0001096906-26-001699": {
+   "accession": "0001096906-26-001699",
+   "attempts": 0,
+   "cik": 2034161,
+   "form": "10-Q",
+   "name": "Boumarang Inc.",
+   "updated": "2026-11-06T17:28:49-05:00"
+  },
+  "0001104485-26-000050": {
+   "accession": "0001104485-26-000050",
+   "attempts": 0,
+   "cik": 1104485,
+   "form": "10-Q",
+   "name": "NORTHERN OIL & GAS, INC.",
+   "updated": "2026-11-06T16:15:29-05:00"
   },
   "0001104659-26-123328": {
    "accession": "0001104659-26-123328",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1680048,
    "form": "10-Q",
    "name": "MUSTANG BIO, INC.",
    "updated": "2026-11-05T16:09:58-05:00"
-  },
-  "0001104659-26-123437": {
-   "accession": "0001104659-26-123437",
-   "attempts": 0,
-   "cik": 903651,
-   "form": "10-Q",
-   "name": "INNODATA INC",
-   "updated": "2026-11-05T17:06:02-05:00"
-  },
-  "0001104659-26-123439": {
-   "accession": "0001104659-26-123439",
-   "attempts": 0,
-   "cik": 1124524,
-   "form": "10-Q",
-   "name": "Cryoport, Inc.",
-   "updated": "2026-11-05T17:08:28-05:00"
-  },
-  "0001104659-26-123440": {
-   "accession": "0001104659-26-123440",
-   "attempts": 0,
-   "cik": 2078416,
-   "form": "10-Q",
-   "name": "Liberty Live Holdings, Inc.",
-   "updated": "2026-11-05T17:08:22-05:00"
-  },
-  "0001104659-26-123450": {
-   "accession": "0001104659-26-123450",
-   "attempts": 0,
-   "cik": 1806347,
-   "form": "10-Q",
-   "name": "Westrock Coffee Co",
-   "updated": "2026-11-05T17:16:08-05:00"
-  },
-  "0001104659-26-123458": {
-   "accession": "0001104659-26-123458",
-   "attempts": 0,
-   "cik": 1628808,
-   "form": "10-Q",
-   "name": "Profound Medical Corp.",
-   "updated": "2026-11-05T17:22:32-05:00"
-  },
-  "0001104659-26-123491": {
-   "accession": "0001104659-26-123491",
-   "attempts": 0,
-   "cik": 75252,
-   "form": "10-Q",
-   "name": "ACCENDRA HEALTH INC/VA/",
-   "updated": "2026-11-05T18:28:31-05:00"
-  },
-  "0001104659-26-123492": {
-   "accession": "0001104659-26-123492",
-   "attempts": 0,
-   "cik": 1370450,
-   "form": "10-Q",
-   "name": "Willdan Group, Inc.",
-   "updated": "2026-11-05T18:34:19-05:00"
-  },
-  "0001104659-26-123503": {
-   "accession": "0001104659-26-123503",
-   "attempts": 0,
-   "cik": 865752,
-   "form": "10-Q",
-   "name": "Monster Beverage Corp",
-   "updated": "2026-11-05T19:26:14-05:00"
-  },
-  "0001104659-26-123567": {
-   "accession": "0001104659-26-123567",
-   "attempts": 0,
-   "cik": 1689796,
-   "form": "10-Q",
-   "name": "JBG SMITH Properties",
-   "updated": "2026-11-06T06:32:03-05:00"
   },
   "0001104659-26-123591": {
    "accession": "0001104659-26-123591",
@@ -440,21 +544,173 @@
    "name": "QCR HOLDINGS INC",
    "updated": "2026-11-06T11:25:00-05:00"
   },
-  "0001124198-26-000078": {
-   "accession": "0001124198-26-000078",
+  "0001104659-26-123743": {
+   "accession": "0001104659-26-123743",
    "attempts": 0,
-   "cik": 1124198,
+   "cik": 746514,
    "form": "10-Q",
-   "name": "FLUOR CORP",
-   "updated": "2026-11-05T17:43:05-05:00"
+   "name": "NEW ENGLAND REALTY ASSOCIATES LIMITED PARTNERSHIP",
+   "updated": "2026-11-06T12:42:39-05:00"
   },
-  "0001140361-26-042155": {
-   "accession": "0001140361-26-042155",
+  "0001104659-26-123746": {
+   "accession": "0001104659-26-123746",
    "attempts": 0,
-   "cik": 1021561,
+   "cik": 106532,
    "form": "10-Q",
-   "name": "NU SKIN ENTERPRISES, INC.",
-   "updated": "2026-11-05T19:34:17-05:00"
+   "name": "WEYCO GROUP INC",
+   "updated": "2026-11-06T12:52:15-05:00"
+  },
+  "0001104659-26-123798": {
+   "accession": "0001104659-26-123798",
+   "attempts": 0,
+   "cik": 1746109,
+   "form": "10-Q",
+   "name": "Bank First Corp",
+   "updated": "2026-11-06T14:45:55-05:00"
+  },
+  "0001104659-26-123807": {
+   "accession": "0001104659-26-123807",
+   "attempts": 0,
+   "cik": 98677,
+   "form": "10-Q",
+   "name": "TOOTSIE ROLL INDUSTRIES INC",
+   "updated": "2026-11-06T15:00:40-05:00"
+  },
+  "0001104659-26-123818": {
+   "accession": "0001104659-26-123818",
+   "attempts": 0,
+   "cik": 854560,
+   "form": "10-Q",
+   "name": "GREAT SOUTHERN BANCORP, INC.",
+   "updated": "2026-11-06T15:09:17-05:00"
+  },
+  "0001104659-26-123838": {
+   "accession": "0001104659-26-123838",
+   "attempts": 0,
+   "cik": 711669,
+   "form": "10-Q",
+   "name": "COLONY BANKCORP INC",
+   "updated": "2026-11-06T16:00:57-05:00"
+  },
+  "0001104659-26-123839": {
+   "accession": "0001104659-26-123839",
+   "attempts": 0,
+   "cik": 1828588,
+   "form": "10-Q",
+   "name": "Hanover Bancorp, Inc. /MD",
+   "updated": "2026-11-06T16:01:04-05:00"
+  },
+  "0001104659-26-123852": {
+   "accession": "0001104659-26-123852",
+   "attempts": 0,
+   "cik": 1056943,
+   "form": "10-Q",
+   "name": "PEOPLES FINANCIAL SERVICES CORP.",
+   "updated": "2026-11-06T16:06:04-05:00"
+  },
+  "0001104659-26-123854": {
+   "accession": "0001104659-26-123854",
+   "attempts": 0,
+   "cik": 1629019,
+   "form": "10-Q",
+   "name": "Merchants Bancorp",
+   "updated": "2026-11-06T16:06:10-05:00"
+  },
+  "0001104659-26-123855": {
+   "accession": "0001104659-26-123855",
+   "attempts": 0,
+   "cik": 812796,
+   "form": "10-Q",
+   "name": "SOLIGENIX, INC.",
+   "updated": "2026-11-06T16:05:59-05:00"
+  },
+  "0001104659-26-123856": {
+   "accession": "0001104659-26-123856",
+   "attempts": 0,
+   "cik": 1126741,
+   "form": "10-Q",
+   "name": "GSI TECHNOLOGY INC",
+   "updated": "2026-11-06T16:06:16-05:00"
+  },
+  "0001104659-26-123864": {
+   "accession": "0001104659-26-123864",
+   "attempts": 0,
+   "cik": 1086600,
+   "form": "10-Q",
+   "name": "ALLIANCE RESOURCE PARTNERS LP",
+   "updated": "2026-11-06T16:09:44-05:00"
+  },
+  "0001104659-26-123869": {
+   "accession": "0001104659-26-123869",
+   "attempts": 0,
+   "cik": 1476034,
+   "form": "10-Q",
+   "name": "Metropolitan Bank Holding Corp.",
+   "updated": "2026-11-06T16:11:15-05:00"
+  },
+  "0001104659-26-123877": {
+   "accession": "0001104659-26-123877",
+   "attempts": 0,
+   "cik": 1754170,
+   "form": "10-Q",
+   "name": "AerSale Corp",
+   "updated": "2026-11-06T16:15:45-05:00"
+  },
+  "0001104659-26-123881": {
+   "accession": "0001104659-26-123881",
+   "attempts": 0,
+   "cik": 1769663,
+   "form": "10-Q",
+   "name": "Pioneer Bancorp, Inc./MD",
+   "updated": "2026-11-06T16:16:07-05:00"
+  },
+  "0001104659-26-123882": {
+   "accession": "0001104659-26-123882",
+   "attempts": 0,
+   "cik": 723188,
+   "form": "10-Q",
+   "name": "COMMUNITY FINANCIAL SYSTEM, INC.",
+   "updated": "2026-11-06T16:16:26-05:00"
+  },
+  "0001104659-26-123904": {
+   "accession": "0001104659-26-123904",
+   "attempts": 0,
+   "cik": 2039497,
+   "form": "10-Q",
+   "name": "Resolute Holdings Management, Inc.",
+   "updated": "2026-11-06T16:30:51-05:00"
+  },
+  "0001104659-26-123907": {
+   "accession": "0001104659-26-123907",
+   "attempts": 0,
+   "cik": 842023,
+   "form": "10-Q",
+   "name": "BIO-TECHNE Corp",
+   "updated": "2026-11-06T16:30:50-05:00"
+  },
+  "0001104659-26-123927": {
+   "accession": "0001104659-26-123927",
+   "attempts": 0,
+   "cik": 916907,
+   "form": "10-Q",
+   "name": "SOUTHERN MISSOURI BANCORP, INC.",
+   "updated": "2026-11-06T16:48:53-05:00"
+  },
+  "0001124796-26-000043": {
+   "accession": "0001124796-26-000043",
+   "attempts": 0,
+   "cik": 1124796,
+   "form": "10-Q",
+   "name": "NLIGHT, INC.",
+   "updated": "2026-11-06T14:25:05-05:00"
+  },
+  "0001128361-26-000055": {
+   "accession": "0001128361-26-000055",
+   "attempts": 0,
+   "cik": 1128361,
+   "form": "10-Q",
+   "name": "HOPE BANCORP INC",
+   "updated": "2026-11-06T16:16:14-05:00"
   },
   "0001140361-26-042248": {
    "accession": "0001140361-26-042248",
@@ -472,6 +728,54 @@
    "name": "GREENE COUNTY BANCORP INC",
    "updated": "2026-11-06T10:17:09-05:00"
   },
+  "0001140361-26-042445": {
+   "accession": "0001140361-26-042445",
+   "attempts": 0,
+   "cik": 357301,
+   "form": "10-Q",
+   "name": "TRUSTCO BANK CORP N Y",
+   "updated": "2026-11-06T15:40:12-05:00"
+  },
+  "0001140361-26-042473": {
+   "accession": "0001140361-26-042473",
+   "attempts": 0,
+   "cik": 790359,
+   "form": "10-Q",
+   "name": "NBT BANCORP INC",
+   "updated": "2026-11-06T16:11:17-05:00"
+  },
+  "0001140361-26-042504": {
+   "accession": "0001140361-26-042504",
+   "attempts": 0,
+   "cik": 1085913,
+   "form": "10-Q",
+   "name": "FARMERS & MERCHANTS BANCORP",
+   "updated": "2026-11-06T16:30:21-05:00"
+  },
+  "0001171843-26-007225": {
+   "accession": "0001171843-26-007225",
+   "attempts": 0,
+   "cik": 311094,
+   "form": "10-Q",
+   "name": "WESTAMERICA BANCORPORATION",
+   "updated": "2026-11-06T13:49:52-05:00"
+  },
+  "0001171843-26-007230": {
+   "accession": "0001171843-26-007230",
+   "attempts": 0,
+   "cik": 898437,
+   "form": "10-Q",
+   "name": "Anika Therapeutics, Inc.",
+   "updated": "2026-11-06T14:51:15-05:00"
+  },
+  "0001172052-26-000032": {
+   "accession": "0001172052-26-000032",
+   "attempts": 0,
+   "cik": 1172052,
+   "form": "10-Q",
+   "name": "SAFETY INSURANCE GROUP INC",
+   "updated": "2026-11-06T14:42:47-05:00"
+  },
   "0001174947-26-000961": {
    "accession": "0001174947-26-000961",
    "attempts": 0,
@@ -480,13 +784,21 @@
    "name": "MUNCY COLUMBIA FINANCIAL Corp",
    "updated": "2026-11-06T11:28:21-05:00"
   },
-  "0001175454-26-000059": {
-   "accession": "0001175454-26-000059",
+  "0001174947-26-000964": {
+   "accession": "0001174947-26-000964",
    "attempts": 0,
-   "cik": 1175454,
+   "cik": 1681206,
    "form": "10-Q",
-   "name": "CORPAY, INC.",
-   "updated": "2026-11-05T17:19:22-05:00"
+   "name": "NI Holdings, Inc.",
+   "updated": "2026-11-06T16:06:27-05:00"
+  },
+  "0001178913-26-005057": {
+   "accession": "0001178913-26-005057",
+   "attempts": 0,
+   "cik": 1638097,
+   "form": "10-Q",
+   "name": "Entera Bio Ltd.",
+   "updated": "2026-11-06T16:16:40-05:00"
   },
   "0001185185-26-005224": {
    "accession": "0001185185-26-005224",
@@ -496,17 +808,25 @@
    "name": "Iris Acquisition Corp II",
    "updated": "2026-11-06T09:59:54-05:00"
   },
-  "0001193125-26-448529": {
-   "accession": "0001193125-26-448529",
-   "attempts": 5,
-   "cik": 1658551,
+  "0001185185-26-005237": {
+   "accession": "0001185185-26-005237",
+   "attempts": 0,
+   "cik": 1326205,
    "form": "10-Q",
-   "name": "Amylyx Pharmaceuticals, Inc.",
-   "updated": "2026-11-05T07:04:13-05:00"
+   "name": "IGC Pharma, Inc.",
+   "updated": "2026-11-06T16:01:42-05:00"
+  },
+  "0001185185-26-005245": {
+   "accession": "0001185185-26-005245",
+   "attempts": 0,
+   "cik": 1903784,
+   "form": "10-Q",
+   "name": "Vogenx, Inc.",
+   "updated": "2026-11-06T17:24:03-05:00"
   },
   "0001193125-26-448600": {
    "accession": "0001193125-26-448600",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1833214,
    "form": "10-Q",
    "name": "SAB Biotherapeutics, Inc.",
@@ -514,7 +834,7 @@
   },
   "0001193125-26-448612": {
    "accession": "0001193125-26-448612",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1782223,
    "form": "10-Q",
    "name": "Pyxis Oncology, Inc.",
@@ -522,7 +842,7 @@
   },
   "0001193125-26-448636": {
    "accession": "0001193125-26-448636",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1755237,
    "form": "10-Q",
    "name": "Korsana Biosciences, Inc.",
@@ -530,7 +850,7 @@
   },
   "0001193125-26-448638": {
    "accession": "0001193125-26-448638",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1583648,
    "form": "10-Q",
    "name": "PALVELLA THERAPEUTICS, INC.",
@@ -538,7 +858,7 @@
   },
   "0001193125-26-449764": {
    "accession": "0001193125-26-449764",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1262104,
    "form": "10-Q",
    "name": "Lite Strategy, Inc.",
@@ -546,7 +866,7 @@
   },
   "0001193125-26-449963": {
    "accession": "0001193125-26-449963",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 1622229,
    "form": "10-Q",
    "name": "Cogent Biosciences, Inc.",
@@ -554,315 +874,27 @@
   },
   "0001193125-26-450083": {
    "accession": "0001193125-26-450083",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 842717,
    "form": "10-Q",
    "name": "BLUE RIDGE BANKSHARES, INC.",
    "updated": "2026-11-05T17:00:55-05:00"
   },
-  "0001193125-26-450111": {
-   "accession": "0001193125-26-450111",
-   "attempts": 0,
-   "cik": 1493761,
-   "form": "10-Q",
-   "name": "Turtle Beach Corp",
-   "updated": "2026-11-05T17:06:31-05:00"
-  },
-  "0001193125-26-450130": {
-   "accession": "0001193125-26-450130",
-   "attempts": 0,
-   "cik": 1494904,
-   "form": "10-Q",
-   "name": "Global Indemnity Group, LLC",
-   "updated": "2026-11-05T17:11:22-05:00"
-  },
-  "0001193125-26-450137": {
-   "accession": "0001193125-26-450137",
-   "attempts": 0,
-   "cik": 1888447,
-   "form": "10-Q",
-   "name": "Excelerate Energy, Inc.",
-   "updated": "2026-11-05T17:12:24-05:00"
-  },
-  "0001193125-26-450161": {
-   "accession": "0001193125-26-450161",
-   "attempts": 0,
-   "cik": 1603454,
-   "form": "10-Q",
-   "name": "Celcuity Inc.",
-   "updated": "2026-11-05T17:15:32-05:00"
-  },
-  "0001193125-26-450174": {
-   "accession": "0001193125-26-450174",
-   "attempts": 0,
-   "cik": 2078856,
-   "form": "10-Q",
-   "name": "Hyperliquid Strategies Inc",
-   "updated": "2026-11-05T17:17:13-05:00"
-  },
-  "0001193125-26-450186": {
-   "accession": "0001193125-26-450186",
-   "attempts": 0,
-   "cik": 1936224,
-   "form": "10-Q",
-   "name": "SURF AIR MOBILITY INC.",
-   "updated": "2026-11-05T17:20:50-05:00"
-  },
-  "0001193125-26-450194": {
-   "accession": "0001193125-26-450194",
-   "attempts": 0,
-   "cik": 1810560,
-   "form": "10-Q",
-   "name": "REVELATION BIOSCIENCES, INC.",
-   "updated": "2026-11-05T17:23:51-05:00"
-  },
   "0001193125-26-450234": {
    "accession": "0001193125-26-450234",
-   "attempts": 0,
+   "attempts": 1,
    "cik": 1855781,
    "form": "10-Q",
    "name": "Invesco Galaxy Bitcoin ETF",
    "updated": "2026-11-05T17:35:11-05:00"
   },
-  "0001193125-26-450237": {
-   "accession": "0001193125-26-450237",
-   "attempts": 0,
-   "cik": 1353615,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares Swiss Franc Trust",
-   "updated": "2026-11-05T17:36:12-05:00"
-  },
-  "0001193125-26-450239": {
-   "accession": "0001193125-26-450239",
-   "attempts": 0,
-   "cik": 2026053,
-   "form": "10-Q",
-   "name": "PERSHING SQUARE INC.",
-   "updated": "2026-11-05T17:36:57-05:00"
-  },
-  "0001193125-26-450243": {
-   "accession": "0001193125-26-450243",
-   "attempts": 0,
-   "cik": 1328598,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares Euro Trust",
-   "updated": "2026-11-05T17:37:15-05:00"
-  },
-  "0001193125-26-450250": {
-   "accession": "0001193125-26-450250",
-   "attempts": 0,
-   "cik": 1383151,
-   "form": "10-Q",
-   "name": "Invesco DB US Dollar Index Bullish Fund",
-   "updated": "2026-11-05T17:38:59-05:00"
-  },
-  "0001193125-26-450253": {
-   "accession": "0001193125-26-450253",
-   "attempts": 0,
-   "cik": 1383057,
-   "form": "10-Q",
-   "name": "Invesco DB Precious Metals Fund",
-   "updated": "2026-11-05T17:39:21-05:00"
-  },
-  "0001193125-26-450261": {
-   "accession": "0001193125-26-450261",
-   "attempts": 0,
-   "cik": 1596967,
-   "form": "10-Q",
-   "name": "Moelis & Co",
-   "updated": "2026-11-05T17:42:12-05:00"
-  },
-  "0001193125-26-450267": {
-   "accession": "0001193125-26-450267",
-   "attempts": 0,
-   "cik": 1383058,
-   "form": "10-Q",
-   "name": "Invesco DB Oil Fund",
-   "updated": "2026-11-05T17:44:15-05:00"
-  },
-  "0001193125-26-450270": {
-   "accession": "0001193125-26-450270",
-   "attempts": 0,
-   "cik": 1383062,
-   "form": "10-Q",
-   "name": "Invesco DB Energy Fund",
-   "updated": "2026-11-05T17:45:16-05:00"
-  },
-  "0001193125-26-450271": {
-   "accession": "0001193125-26-450271",
-   "attempts": 0,
-   "cik": 1013488,
-   "form": "10-Q",
-   "name": "BJs RESTAURANTS INC",
-   "updated": "2026-11-05T17:45:32-05:00"
-  },
-  "0001193125-26-450272": {
-   "accession": "0001193125-26-450272",
-   "attempts": 0,
-   "cik": 1383084,
-   "form": "10-Q",
-   "name": "INVESCO DB BASE METALS FUND",
-   "updated": "2026-11-05T17:46:02-05:00"
-  },
-  "0001193125-26-450276": {
-   "accession": "0001193125-26-450276",
-   "attempts": 0,
-   "cik": 1353614,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares Australian Dollar Trust",
-   "updated": "2026-11-05T17:47:05-05:00"
-  },
-  "0001193125-26-450277": {
-   "accession": "0001193125-26-450277",
-   "attempts": 0,
-   "cik": 1353612,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares Canadian Dollar Trust",
-   "updated": "2026-11-05T17:47:31-05:00"
-  },
-  "0001193125-26-450280": {
-   "accession": "0001193125-26-450280",
-   "attempts": 0,
-   "cik": 2074409,
-   "form": "10-Q",
-   "name": "Invesco Galaxy Solana ETF",
-   "updated": "2026-11-05T17:48:01-05:00"
-  },
-  "0001193125-26-450281": {
-   "accession": "0001193125-26-450281",
-   "attempts": 0,
-   "cik": 1995569,
-   "form": "10-Q",
-   "name": "Invesco Galaxy Ethereum ETF",
-   "updated": "2026-11-05T17:48:43-05:00"
-  },
-  "0001193125-26-450284": {
-   "accession": "0001193125-26-450284",
-   "attempts": 0,
-   "cik": 1353611,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares British Pound Sterling Trust",
-   "updated": "2026-11-05T17:49:21-05:00"
-  },
-  "0001193125-26-450286": {
-   "accession": "0001193125-26-450286",
-   "attempts": 0,
-   "cik": 1353613,
-   "form": "10-Q",
-   "name": "Invesco CurrencyShares Japanese Yen Trust",
-   "updated": "2026-11-05T17:49:36-05:00"
-  },
-  "0001193125-26-450288": {
-   "accession": "0001193125-26-450288",
-   "attempts": 0,
-   "cik": 1328237,
-   "form": "10-Q",
-   "name": "Invesco DB Commodity Index Tracking Fund",
-   "updated": "2026-11-05T17:50:06-05:00"
-  },
-  "0001193125-26-450290": {
-   "accession": "0001193125-26-450290",
-   "attempts": 0,
-   "cik": 1383149,
-   "form": "10-Q",
-   "name": "INVESCO DB US DOLLAR INDEX BEARISH FUND",
-   "updated": "2026-11-05T17:50:34-05:00"
-  },
-  "0001193125-26-450292": {
-   "accession": "0001193125-26-450292",
-   "attempts": 0,
-   "cik": 1383082,
-   "form": "10-Q",
-   "name": "INVESCO DB AGRICULTURE FUND",
-   "updated": "2026-11-05T17:51:05-05:00"
-  },
-  "0001193125-26-450334": {
-   "accession": "0001193125-26-450334",
-   "attempts": 0,
-   "cik": 1124105,
-   "form": "10-Q",
-   "name": "GYRE THERAPEUTICS, INC.",
-   "updated": "2026-11-05T18:30:45-05:00"
-  },
-  "0001193125-26-450351": {
-   "accession": "0001193125-26-450351",
-   "attempts": 0,
-   "cik": 750577,
-   "form": "10-Q",
-   "name": "HANCOCK WHITNEY CORP",
-   "updated": "2026-11-05T19:02:30-05:00"
-  },
-  "0001193125-26-450404": {
-   "accession": "0001193125-26-450404",
-   "attempts": 0,
-   "cik": 1692376,
-   "form": "10-Q",
-   "name": "Velocity Financial, Inc.",
-   "updated": "2026-11-05T19:58:13-05:00"
-  },
-  "0001193125-26-450476": {
-   "accession": "0001193125-26-450476",
-   "attempts": 0,
-   "cik": 2040127,
-   "form": "10-Q",
-   "name": "Karman Holdings Inc.",
-   "updated": "2026-11-05T21:40:50-05:00"
-  },
-  "0001193125-26-450504": {
-   "accession": "0001193125-26-450504",
-   "attempts": 0,
-   "cik": 1761312,
-   "form": "10-Q",
-   "name": "Palomar Holdings, Inc.",
-   "updated": "2026-11-05T21:55:43-05:00"
-  },
-  "0001193125-26-450556": {
-   "accession": "0001193125-26-450556",
-   "attempts": 0,
-   "cik": 1083446,
-   "form": "10-Q",
-   "name": "Astrana Health, Inc.",
-   "updated": "2026-11-06T06:00:59-05:00"
-  },
-  "0001193125-26-450640": {
-   "accession": "0001193125-26-450640",
-   "attempts": 0,
-   "cik": 96271,
-   "form": "10-Q",
-   "name": "TAMPA ELECTRIC CO",
-   "updated": "2026-11-06T06:05:32-05:00"
-  },
-  "0001193125-26-450679": {
-   "accession": "0001193125-26-450679",
-   "attempts": 0,
-   "cik": 1278021,
-   "form": "10-Q",
-   "name": "MARKETAXESS HOLDINGS INC",
-   "updated": "2026-11-06T06:31:44-05:00"
-  },
   "0001193125-26-450697": {
    "accession": "0001193125-26-450697",
-   "attempts": 0,
+   "attempts": 1,
    "cik": 1737927,
    "form": "10-Q",
    "name": "Canopy Growth Corp",
    "updated": "2026-11-06T06:45:41-05:00"
-  },
-  "0001193125-26-450714": {
-   "accession": "0001193125-26-450714",
-   "attempts": 0,
-   "cik": 895728,
-   "form": "10-Q",
-   "name": "ENBRIDGE INC",
-   "updated": "2026-11-06T07:05:22-05:00"
-  },
-  "0001193125-26-450722": {
-   "accession": "0001193125-26-450722",
-   "attempts": 0,
-   "cik": 1630627,
-   "form": "10-Q",
-   "name": "TREACE MEDICAL CONCEPTS, INC.",
-   "updated": "2026-11-06T07:08:32-05:00"
   },
   "0001193125-26-450764": {
    "accession": "0001193125-26-450764",
@@ -960,21 +992,381 @@
    "name": "Drilling Tools International Corp",
    "updated": "2026-11-06T12:23:11-05:00"
   },
+  "0001193125-26-451316": {
+   "accession": "0001193125-26-451316",
+   "attempts": 0,
+   "cik": 1646614,
+   "form": "10-Q",
+   "name": "Silver Point Specialty Lending Fund",
+   "updated": "2026-11-06T12:41:46-05:00"
+  },
+  "0001193125-26-451363": {
+   "accession": "0001193125-26-451363",
+   "attempts": 0,
+   "cik": 1598665,
+   "form": "10-Q",
+   "name": "Heritage Insurance Holdings, Inc.",
+   "updated": "2026-11-06T13:00:48-05:00"
+  },
+  "0001193125-26-451376": {
+   "accession": "0001193125-26-451376",
+   "attempts": 0,
+   "cik": 1117297,
+   "form": "10-Q",
+   "name": "QUINSTREET, INC",
+   "updated": "2026-11-06T13:07:17-05:00"
+  },
+  "0001193125-26-451423": {
+   "accession": "0001193125-26-451423",
+   "attempts": 0,
+   "cik": 910606,
+   "form": "10-Q",
+   "name": "REGENCY CENTERS CORP",
+   "updated": "2026-11-06T13:39:59-05:00"
+  },
+  "0001193125-26-451442": {
+   "accession": "0001193125-26-451442",
+   "attempts": 0,
+   "cik": 2000046,
+   "form": "10-Q",
+   "name": "Fidelity Ethereum Fund",
+   "updated": "2026-11-06T13:55:24-05:00"
+  },
+  "0001193125-26-451451": {
+   "accession": "0001193125-26-451451",
+   "attempts": 0,
+   "cik": 1852317,
+   "form": "10-Q",
+   "name": "Fidelity Wise Origin Bitcoin Fund",
+   "updated": "2026-11-06T14:03:04-05:00"
+  },
+  "0001193125-26-451453": {
+   "accession": "0001193125-26-451453",
+   "attempts": 0,
+   "cik": 1538990,
+   "form": "10-Q",
+   "name": "STORE CAPITAL LLC",
+   "updated": "2026-11-06T14:03:32-05:00"
+  },
+  "0001193125-26-451460": {
+   "accession": "0001193125-26-451460",
+   "attempts": 0,
+   "cik": 1109242,
+   "form": "10-Q",
+   "name": "HANMI FINANCIAL CORP",
+   "updated": "2026-11-06T14:10:41-05:00"
+  },
+  "0001193125-26-451516": {
+   "accession": "0001193125-26-451516",
+   "attempts": 0,
+   "cik": 1913971,
+   "form": "10-Q",
+   "name": "Princeton Bancorp, Inc.",
+   "updated": "2026-11-06T14:17:01-05:00"
+  },
+  "0001193125-26-451587": {
+   "accession": "0001193125-26-451587",
+   "attempts": 0,
+   "cik": 1368757,
+   "form": "10-Q",
+   "name": "GTJ REIT, INC.",
+   "updated": "2026-11-06T14:34:29-05:00"
+  },
+  "0001193125-26-451588": {
+   "accession": "0001193125-26-451588",
+   "attempts": 0,
+   "cik": 2033695,
+   "form": "10-Q",
+   "name": "New Mountain Net Lease Trust",
+   "updated": "2026-11-06T14:34:55-05:00"
+  },
+  "0001193125-26-451666": {
+   "accession": "0001193125-26-451666",
+   "attempts": 0,
+   "cik": 1415311,
+   "form": "10-Q",
+   "name": "ProShares Trust II",
+   "updated": "2026-11-06T15:12:12-05:00"
+  },
+  "0001193125-26-451705": {
+   "accession": "0001193125-26-451705",
+   "attempts": 0,
+   "cik": 1024795,
+   "form": "10-Q",
+   "name": "HELIOS TECHNOLOGIES, INC.",
+   "updated": "2026-11-06T15:31:37-05:00"
+  },
+  "0001193125-26-451723": {
+   "accession": "0001193125-26-451723",
+   "attempts": 0,
+   "cik": 56047,
+   "form": "10-Q",
+   "name": "KIRBY CORP",
+   "updated": "2026-11-06T15:38:25-05:00"
+  },
+  "0001193125-26-451749": {
+   "accession": "0001193125-26-451749",
+   "attempts": 0,
+   "cik": 2013744,
+   "form": "10-Q",
+   "name": "Bitwise Ethereum ETF",
+   "updated": "2026-11-06T15:45:18-05:00"
+  },
+  "0001193125-26-451764": {
+   "accession": "0001193125-26-451764",
+   "attempts": 0,
+   "cik": 1723788,
+   "form": "10-Q",
+   "name": "Bitwise 10 Crypto Index ETF",
+   "updated": "2026-11-06T15:47:54-05:00"
+  },
+  "0001193125-26-451776": {
+   "accession": "0001193125-26-451776",
+   "attempts": 0,
+   "cik": 2039525,
+   "form": "10-Q",
+   "name": "Bitwise XRP ETF",
+   "updated": "2026-11-06T15:49:37-05:00"
+  },
+  "0001193125-26-451777": {
+   "accession": "0001193125-26-451777",
+   "attempts": 0,
+   "cik": 1763415,
+   "form": "10-Q",
+   "name": "Bitwise Bitcoin ETF",
+   "updated": "2026-11-06T15:49:40-05:00"
+  },
+  "0001193125-26-451778": {
+   "accession": "0001193125-26-451778",
+   "attempts": 0,
+   "cik": 885275,
+   "form": "10-Q",
+   "name": "WILSON BANK HOLDING CO",
+   "updated": "2026-11-06T15:50:58-05:00"
+  },
+  "0001193125-26-451797": {
+   "accession": "0001193125-26-451797",
+   "attempts": 0,
+   "cik": 1598646,
+   "form": "10-Q",
+   "name": "Minerva Neurosciences, Inc.",
+   "updated": "2026-11-06T16:00:35-05:00"
+  },
+  "0001193125-26-451798": {
+   "accession": "0001193125-26-451798",
+   "attempts": 0,
+   "cik": 105016,
+   "form": "10-Q",
+   "name": "WATSCO INC",
+   "updated": "2026-11-06T16:00:36-05:00"
+  },
+  "0001193125-26-451799": {
+   "accession": "0001193125-26-451799",
+   "attempts": 0,
+   "cik": 354647,
+   "form": "10-Q",
+   "name": "CVB FINANCIAL CORP",
+   "updated": "2026-11-06T16:01:33-05:00"
+  },
+  "0001193125-26-451802": {
+   "accession": "0001193125-26-451802",
+   "attempts": 0,
+   "cik": 1393818,
+   "form": "10-Q",
+   "name": "Blackstone Inc.",
+   "updated": "2026-11-06T16:02:22-05:00"
+  },
+  "0001193125-26-451806": {
+   "accession": "0001193125-26-451806",
+   "attempts": 0,
+   "cik": 2006758,
+   "form": "10-Q",
+   "name": "MidCap Apollo Institutional Private Lending",
+   "updated": "2026-11-06T16:03:18-05:00"
+  },
+  "0001193125-26-451817": {
+   "accession": "0001193125-26-451817",
+   "attempts": 0,
+   "cik": 1537054,
+   "form": "10-Q",
+   "name": "Gogo Inc.",
+   "updated": "2026-11-06T16:05:16-05:00"
+  },
+  "0001193125-26-451825": {
+   "accession": "0001193125-26-451825",
+   "attempts": 0,
+   "cik": 1950976,
+   "form": "10-Q",
+   "name": "26North BDC, Inc.",
+   "updated": "2026-11-06T16:06:02-05:00"
+  },
+  "0001193125-26-451840": {
+   "accession": "0001193125-26-451840",
+   "attempts": 0,
+   "cik": 851520,
+   "form": "10-Q",
+   "name": "EXPONENT INC",
+   "updated": "2026-11-06T16:07:11-05:00"
+  },
+  "0001193125-26-451855": {
+   "accession": "0001193125-26-451855",
+   "attempts": 0,
+   "cik": 851310,
+   "form": "10-Q",
+   "name": "HARMONIC INC.",
+   "updated": "2026-11-06T16:14:20-05:00"
+  },
+  "0001193125-26-451858": {
+   "accession": "0001193125-26-451858",
+   "attempts": 0,
+   "cik": 798783,
+   "form": "10-Q",
+   "name": "UNIVERSAL HEALTH REALTY INCOME TRUST",
+   "updated": "2026-11-06T16:15:37-05:00"
+  },
+  "0001193125-26-451859": {
+   "accession": "0001193125-26-451859",
+   "attempts": 0,
+   "cik": 1297107,
+   "form": "10-Q",
+   "name": "CoastalSouth Bancshares, Inc.",
+   "updated": "2026-11-06T16:15:54-05:00"
+  },
+  "0001193125-26-451860": {
+   "accession": "0001193125-26-451860",
+   "attempts": 0,
+   "cik": 1227500,
+   "form": "10-Q",
+   "name": "EQUITY BANCSHARES INC",
+   "updated": "2026-11-06T16:16:17-05:00"
+  },
+  "0001193125-26-451865": {
+   "accession": "0001193125-26-451865",
+   "attempts": 0,
+   "cik": 1632970,
+   "form": "10-Q",
+   "name": "American Healthcare REIT, Inc.",
+   "updated": "2026-11-06T16:16:37-05:00"
+  },
+  "0001193125-26-451866": {
+   "accession": "0001193125-26-451866",
+   "attempts": 0,
+   "cik": 352915,
+   "form": "10-Q",
+   "name": "UNIVERSAL HEALTH SERVICES INC",
+   "updated": "2026-11-06T16:16:44-05:00"
+  },
+  "0001193125-26-451875": {
+   "accession": "0001193125-26-451875",
+   "attempts": 0,
+   "cik": 1702750,
+   "form": "10-Q",
+   "name": "BYLINE BANCORP, INC.",
+   "updated": "2026-11-06T16:19:40-05:00"
+  },
+  "0001193125-26-451877": {
+   "accession": "0001193125-26-451877",
+   "attempts": 0,
+   "cik": 1564902,
+   "form": "10-Q",
+   "name": "United Parks & Resorts Inc.",
+   "updated": "2026-11-06T16:19:46-05:00"
+  },
+  "0001193125-26-451881": {
+   "accession": "0001193125-26-451881",
+   "attempts": 0,
+   "cik": 923796,
+   "form": "10-Q",
+   "name": "GEO GROUP INC",
+   "updated": "2026-11-06T16:20:42-05:00"
+  },
+  "0001193125-26-451929": {
+   "accession": "0001193125-26-451929",
+   "attempts": 0,
+   "cik": 1350102,
+   "form": "10-Q",
+   "name": "Ascent Solar Technologies, Inc.",
+   "updated": "2026-11-06T16:30:37-05:00"
+  },
+  "0001193125-26-451930": {
+   "accession": "0001193125-26-451930",
+   "attempts": 0,
+   "cik": 1789029,
+   "form": "10-Q",
+   "name": "Aeva Technologies, Inc.",
+   "updated": "2026-11-06T16:30:45-05:00"
+  },
+  "0001193125-26-451955": {
+   "accession": "0001193125-26-451955",
+   "attempts": 0,
+   "cik": 760498,
+   "form": "10-Q",
+   "name": "BANCFIRST CORP /OK/",
+   "updated": "2026-11-06T16:36:40-05:00"
+  },
+  "0001193125-26-451981": {
+   "accession": "0001193125-26-451981",
+   "attempts": 0,
+   "cik": 1800667,
+   "form": "10-Q",
+   "name": "JFrog Ltd",
+   "updated": "2026-11-06T16:47:32-05:00"
+  },
+  "0001193125-26-451985": {
+   "accession": "0001193125-26-451985",
+   "attempts": 0,
+   "cik": 890926,
+   "form": "10-Q",
+   "name": "RADIAN GROUP INC",
+   "updated": "2026-11-06T16:51:45-05:00"
+  },
+  "0001193125-26-451995": {
+   "accession": "0001193125-26-451995",
+   "attempts": 0,
+   "cik": 1287865,
+   "form": "10-Q",
+   "name": "MEDICAL PROPERTIES TRUST INC",
+   "updated": "2026-11-06T16:57:38-05:00"
+  },
+  "0001193125-26-452035": {
+   "accession": "0001193125-26-452035",
+   "attempts": 0,
+   "cik": 797721,
+   "form": "10-Q",
+   "name": "VIASAT INC",
+   "updated": "2026-11-06T17:10:18-05:00"
+  },
+  "0001193125-26-452069": {
+   "accession": "0001193125-26-452069",
+   "attempts": 0,
+   "cik": 1841925,
+   "form": "10-Q",
+   "name": "indie Semiconductor, Inc.",
+   "updated": "2026-11-06T17:15:42-05:00"
+  },
+  "0001193125-26-452122": {
+   "accession": "0001193125-26-452122",
+   "attempts": 0,
+   "cik": 1708646,
+   "form": "10-Q",
+   "name": "Goldman Sachs Physical Gold ETF",
+   "updated": "2026-11-06T17:28:59-05:00"
+  },
+  "0001193125-26-452129": {
+   "accession": "0001193125-26-452129",
+   "attempts": 0,
+   "cik": 1425355,
+   "form": "10-Q",
+   "name": "SUI Group Holdings Ltd.",
+   "updated": "2026-11-06T17:30:32-05:00"
+  },
   "0001213900-26-116212": {
    "accession": "0001213900-26-116212",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 767405,
    "form": "10-Q",
    "name": "SB FINANCIAL GROUP, INC.",
    "updated": "2026-11-05T11:27:48-05:00"
-  },
-  "0001213900-26-116522": {
-   "accession": "0001213900-26-116522",
-   "attempts": 0,
-   "cik": 2034037,
-   "form": "10-Q",
-   "name": "Siddhi Acquisition Corp (Cayman Islands)",
-   "updated": "2026-11-05T20:13:45-05:00"
   },
   "0001213900-26-116604": {
    "accession": "0001213900-26-116604",
@@ -992,6 +1384,86 @@
    "name": "Protara Therapeutics, Inc.",
    "updated": "2026-11-06T08:10:41-05:00"
   },
+  "0001213900-26-116867": {
+   "accession": "0001213900-26-116867",
+   "attempts": 0,
+   "cik": 2094265,
+   "form": "10-Q",
+   "name": "Mountain Lake Acquisition Corp. II",
+   "updated": "2026-11-06T16:01:37-05:00"
+  },
+  "0001213900-26-116875": {
+   "accession": "0001213900-26-116875",
+   "attempts": 0,
+   "cik": 1869699,
+   "form": "10-Q",
+   "name": "Ark 21Shares Bitcoin ETF",
+   "updated": "2026-11-06T16:06:07-05:00"
+  },
+  "0001213900-26-116886": {
+   "accession": "0001213900-26-116886",
+   "attempts": 0,
+   "cik": 2104177,
+   "form": "10-Q",
+   "name": "Long Table Growth Corp.",
+   "updated": "2026-11-06T16:15:29-05:00"
+  },
+  "0001213900-26-116887": {
+   "accession": "0001213900-26-116887",
+   "attempts": 0,
+   "cik": 778164,
+   "form": "10-Q",
+   "name": "Alto Ingredients, Inc.",
+   "updated": "2026-11-06T16:15:40-05:00"
+  },
+  "0001213900-26-116890": {
+   "accession": "0001213900-26-116890",
+   "attempts": 0,
+   "cik": 2039058,
+   "form": "10-Q",
+   "name": "Jackson Acquisition Co II",
+   "updated": "2026-11-06T16:15:49-05:00"
+  },
+  "0001213900-26-116913": {
+   "accession": "0001213900-26-116913",
+   "attempts": 0,
+   "cik": 2087361,
+   "form": "10-Q",
+   "name": "M Evo Global Acquisition Corp II",
+   "updated": "2026-11-06T16:30:30-05:00"
+  },
+  "0001213900-26-116916": {
+   "accession": "0001213900-26-116916",
+   "attempts": 0,
+   "cik": 2081125,
+   "form": "10-Q",
+   "name": "Dynamix Corp III",
+   "updated": "2026-11-06T16:30:33-05:00"
+  },
+  "0001213900-26-116918": {
+   "accession": "0001213900-26-116918",
+   "attempts": 0,
+   "cik": 2081536,
+   "form": "10-Q",
+   "name": "White Pearl Acquisition Corp.",
+   "updated": "2026-11-06T16:30:53-05:00"
+  },
+  "0001213900-26-116962": {
+   "accession": "0001213900-26-116962",
+   "attempts": 0,
+   "cik": 2113481,
+   "form": "10-Q",
+   "name": "Osprey Acquisition Corp. III",
+   "updated": "2026-11-06T17:00:27-05:00"
+  },
+  "0001213900-26-116963": {
+   "accession": "0001213900-26-116963",
+   "attempts": 0,
+   "cik": 2081358,
+   "form": "10-Q",
+   "name": "Crane Harbor Acquisition Corp. II",
+   "updated": "2026-11-06T17:00:28-05:00"
+  },
   "0001228454-26-000012": {
    "accession": "0001228454-26-000012",
    "attempts": 0,
@@ -1002,7 +1474,7 @@
   },
   "0001258602-26-000052": {
    "accession": "0001258602-26-000052",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 1258602,
    "form": "10-Q",
    "name": "NELNET INC",
@@ -1016,14 +1488,6 @@
    "name": "CCO HOLDINGS LLC",
    "updated": "2026-11-06T07:09:09-05:00"
   },
-  "0001273441-26-000039": {
-   "accession": "0001273441-26-000039",
-   "attempts": 0,
-   "cik": 1273441,
-   "form": "10-Q",
-   "name": "GRAN TIERRA ENERGY INC.",
-   "updated": "2026-11-05T17:33:35-05:00"
-  },
   "0001273813-26-000086": {
    "accession": "0001273813-26-000086",
    "attempts": 0,
@@ -1031,6 +1495,14 @@
    "form": "10-Q",
    "name": "ASSURED GUARANTY LTD",
    "updated": "2026-11-06T08:44:24-05:00"
+  },
+  "0001295810-26-000007": {
+   "accession": "0001295810-26-000007",
+   "attempts": 0,
+   "cik": 1295810,
+   "form": "10-Q",
+   "name": "Sunstone Hotel Investors, Inc.",
+   "updated": "2026-11-06T14:28:45-05:00"
   },
   "0001315257-26-000058": {
    "accession": "0001315257-26-000058",
@@ -1048,6 +1520,22 @@
    "name": "HOME BANCSHARES INC",
    "updated": "2026-11-06T11:24:58-05:00"
   },
+  "0001331875-26-000101": {
+   "accession": "0001331875-26-000101",
+   "attempts": 0,
+   "cik": 1331875,
+   "form": "10-Q",
+   "name": "Fidelity National Financial, Inc.",
+   "updated": "2026-11-06T16:11:42-05:00"
+  },
+  "0001332349-26-000072": {
+   "accession": "0001332349-26-000072",
+   "attempts": 0,
+   "cik": 1332349,
+   "form": "10-Q",
+   "name": "Brookdale Senior Living Inc.",
+   "updated": "2026-11-06T16:18:28-05:00"
+  },
   "0001336917-26-000163": {
    "accession": "0001336917-26-000163",
    "attempts": 0,
@@ -1056,37 +1544,29 @@
    "name": "Under Armour, Inc.",
    "updated": "2026-11-06T09:21:15-05:00"
   },
-  "0001339970-26-000081": {
-   "accession": "0001339970-26-000081",
+  "0001345016-26-000075": {
+   "accession": "0001345016-26-000075",
    "attempts": 0,
-   "cik": 1339970,
+   "cik": 1345016,
    "form": "10-Q",
-   "name": "aTYR PHARMA INC",
-   "updated": "2026-11-05T20:14:28-05:00"
+   "name": "YELP INC",
+   "updated": "2026-11-06T16:08:04-05:00"
   },
-  "0001371285-26-000240": {
-   "accession": "0001371285-26-000240",
+  "0001362468-26-000065": {
+   "accession": "0001362468-26-000065",
    "attempts": 0,
-   "cik": 1371285,
+   "cik": 1362468,
    "form": "10-Q",
-   "name": "TRUPANION, INC.",
-   "updated": "2026-11-05T17:13:41-05:00"
+   "name": "Allegiant Travel CO",
+   "updated": "2026-11-06T16:01:51-05:00"
   },
-  "0001375365-26-000027": {
-   "accession": "0001375365-26-000027",
+  "0001364250-26-000057": {
+   "accession": "0001364250-26-000057",
    "attempts": 0,
-   "cik": 1375365,
+   "cik": 1364250,
    "form": "10-Q",
-   "name": "Super Micro Computer, Inc.",
-   "updated": "2026-11-05T19:25:23-05:00"
-  },
-  "0001388658-26-000094": {
-   "accession": "0001388658-26-000094",
-   "attempts": 0,
-   "cik": 1388658,
-   "form": "10-Q",
-   "name": "iRhythm Holdings, Inc.",
-   "updated": "2026-11-05T17:20:49-05:00"
+   "name": "Douglas Emmett Inc",
+   "updated": "2026-11-06T16:11:01-05:00"
   },
   "0001396440-26-000159": {
    "accession": "0001396440-26-000159",
@@ -1096,25 +1576,33 @@
    "name": "Main Street Capital CORP",
    "updated": "2026-11-06T11:46:40-05:00"
   },
-  "0001401521-26-000045": {
-   "accession": "0001401521-26-000045",
+  "0001398659-26-000019": {
+   "accession": "0001398659-26-000019",
    "attempts": 0,
-   "cik": 1401521,
+   "cik": 1398659,
    "form": "10-Q",
-   "name": "AMERICAN COASTAL INSURANCE Corp",
-   "updated": "2026-11-05T17:05:38-05:00"
+   "name": "Genpact LTD",
+   "updated": "2026-11-06T13:11:47-05:00"
   },
-  "0001424929-26-000068": {
-   "accession": "0001424929-26-000068",
+  "0001419536-26-000186": {
+   "accession": "0001419536-26-000186",
    "attempts": 0,
-   "cik": 1424929,
+   "cik": 1419536,
    "form": "10-Q",
-   "name": "FOX FACTORY HOLDING CORP",
-   "updated": "2026-11-05T21:56:15-05:00"
+   "name": "Capital Bancorp Inc",
+   "updated": "2026-11-06T16:03:46-05:00"
+  },
+  "0001437071-26-000086": {
+   "accession": "0001437071-26-000086",
+   "attempts": 0,
+   "cik": 1437071,
+   "form": "10-Q",
+   "name": "Invesco Mortgage Capital Inc.",
+   "updated": "2026-11-06T16:57:53-05:00"
   },
   "0001437749-26-035262": {
    "accession": "0001437749-26-035262",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1069530,
    "form": "10-Q",
    "name": "FILANA THERAPEUTICS, INC.",
@@ -1122,19 +1610,11 @@
   },
   "0001437749-26-035280": {
    "accession": "0001437749-26-035280",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1533040,
    "form": "10-Q",
    "name": "Phio Pharmaceuticals Corp.",
    "updated": "2026-11-05T16:14:15-05:00"
-  },
-  "0001437749-26-035386": {
-   "accession": "0001437749-26-035386",
-   "attempts": 0,
-   "cik": 799167,
-   "form": "10-Q",
-   "name": "MARTEN TRANSPORT LTD",
-   "updated": "2026-11-06T06:07:31-05:00"
   },
   "0001437749-26-035413": {
    "accession": "0001437749-26-035413",
@@ -1168,21 +1648,229 @@
    "name": "PILLARSTONE CAPITAL REIT",
    "updated": "2026-11-06T12:19:09-05:00"
   },
-  "0001442236-26-000008": {
-   "accession": "0001442236-26-000008",
+  "0001437749-26-035462": {
+   "accession": "0001437749-26-035462",
    "attempts": 0,
-   "cik": 1442236,
+   "cik": 43196,
    "form": "10-Q",
-   "name": "Quest Resource Holding Corp",
-   "updated": "2026-11-05T18:00:34-05:00"
+   "name": "GRAY MEDIA, INC",
+   "updated": "2026-11-06T12:32:13-05:00"
   },
-  "0001465128-26-000031": {
-   "accession": "0001465128-26-000031",
+  "0001437749-26-035472": {
+   "accession": "0001437749-26-035472",
    "attempts": 0,
-   "cik": 1465128,
+   "cik": 750574,
    "form": "10-Q",
-   "name": "STARWOOD PROPERTY TRUST, INC.",
-   "updated": "2026-11-06T06:59:40-05:00"
+   "name": "AUBURN NATIONAL BANCORPORATION, INC",
+   "updated": "2026-11-06T13:09:17-05:00"
+  },
+  "0001437749-26-035477": {
+   "accession": "0001437749-26-035477",
+   "attempts": 0,
+   "cik": 1114927,
+   "form": "10-Q",
+   "name": "FIRST NORTHERN COMMUNITY BANCORP",
+   "updated": "2026-11-06T13:23:31-05:00"
+  },
+  "0001437749-26-035486": {
+   "accession": "0001437749-26-035486",
+   "attempts": 0,
+   "cik": 1275477,
+   "form": "10-Q",
+   "name": "BIMINI CAPITAL MANAGEMENT, INC.",
+   "updated": "2026-11-06T13:56:31-05:00"
+  },
+  "0001437749-26-035488": {
+   "accession": "0001437749-26-035488",
+   "attempts": 0,
+   "cik": 1914605,
+   "form": "10-Q",
+   "name": "ECB Bancorp, Inc. /MD/",
+   "updated": "2026-11-06T14:00:55-05:00"
+  },
+  "0001437749-26-035498": {
+   "accession": "0001437749-26-035498",
+   "attempts": 0,
+   "cik": 859070,
+   "form": "10-Q",
+   "name": "FIRST COMMUNITY BANKSHARES INC /VA/",
+   "updated": "2026-11-06T14:25:23-05:00"
+  },
+  "0001437749-26-035531": {
+   "accession": "0001437749-26-035531",
+   "attempts": 0,
+   "cik": 2099103,
+   "form": "10-Q",
+   "name": "iShares Staked Ethereum Trust ETF",
+   "updated": "2026-11-06T15:41:45-05:00"
+  },
+  "0001437749-26-035533": {
+   "accession": "0001437749-26-035533",
+   "attempts": 0,
+   "cik": 2000638,
+   "form": "10-Q",
+   "name": "iShares Ethereum Trust ETF",
+   "updated": "2026-11-06T15:42:38-05:00"
+  },
+  "0001437749-26-035534": {
+   "accession": "0001437749-26-035534",
+   "attempts": 0,
+   "cik": 1278680,
+   "form": "10-Q",
+   "name": "ISHARES GOLD TRUST",
+   "updated": "2026-11-06T15:43:10-05:00"
+  },
+  "0001437749-26-035537": {
+   "accession": "0001437749-26-035537",
+   "attempts": 0,
+   "cik": 1759124,
+   "form": "10-Q",
+   "name": "iShares Gold Trust Micro",
+   "updated": "2026-11-06T15:43:55-05:00"
+  },
+  "0001437749-26-035539": {
+   "accession": "0001437749-26-035539",
+   "attempts": 0,
+   "cik": 1980994,
+   "form": "10-Q",
+   "name": "iShares Bitcoin Trust ETF",
+   "updated": "2026-11-06T15:44:40-05:00"
+  },
+  "0001437749-26-035540": {
+   "accession": "0001437749-26-035540",
+   "attempts": 0,
+   "cik": 2089969,
+   "form": "10-Q",
+   "name": "iShares Bitcoin Premium Income ETF",
+   "updated": "2026-11-06T15:45:10-05:00"
+  },
+  "0001437749-26-035541": {
+   "accession": "0001437749-26-035541",
+   "attempts": 0,
+   "cik": 1330568,
+   "form": "10-Q",
+   "name": "iShares Silver Trust",
+   "updated": "2026-11-06T15:45:31-05:00"
+  },
+  "0001437749-26-035543": {
+   "accession": "0001437749-26-035543",
+   "attempts": 0,
+   "cik": 1332174,
+   "form": "10-Q",
+   "name": "iShares S&P GSCI Commodity-Indexed Trust",
+   "updated": "2026-11-06T15:46:10-05:00"
+  },
+  "0001437749-26-035558": {
+   "accession": "0001437749-26-035558",
+   "attempts": 0,
+   "cik": 1098151,
+   "form": "10-Q",
+   "name": "FIDELITY D & D BANCORP INC",
+   "updated": "2026-11-06T16:02:08-05:00"
+  },
+  "0001437749-26-035559": {
+   "accession": "0001437749-26-035559",
+   "attempts": 0,
+   "cik": 1031235,
+   "form": "10-Q",
+   "name": "Global Self Storage, Inc.",
+   "updated": "2026-11-06T16:02:34-05:00"
+  },
+  "0001437749-26-035560": {
+   "accession": "0001437749-26-035560",
+   "attempts": 0,
+   "cik": 1138723,
+   "form": "10-Q",
+   "name": "ACCURAY INC",
+   "updated": "2026-11-06T16:04:10-05:00"
+  },
+  "0001437749-26-035562": {
+   "accession": "0001437749-26-035562",
+   "attempts": 0,
+   "cik": 763532,
+   "form": "10-Q",
+   "name": "LSI INDUSTRIES INC",
+   "updated": "2026-11-06T16:04:58-05:00"
+  },
+  "0001437749-26-035564": {
+   "accession": "0001437749-26-035564",
+   "attempts": 0,
+   "cik": 1644963,
+   "form": "10-Q",
+   "name": "AVENUE THERAPEUTICS, INC.",
+   "updated": "2026-11-06T16:05:43-05:00"
+  },
+  "0001437749-26-035565": {
+   "accession": "0001437749-26-035565",
+   "attempts": 0,
+   "cik": 1818644,
+   "form": "10-Q",
+   "name": "AEye, Inc.",
+   "updated": "2026-11-06T16:06:46-05:00"
+  },
+  "0001437749-26-035567": {
+   "accession": "0001437749-26-035567",
+   "attempts": 0,
+   "cik": 1132651,
+   "form": "10-Q",
+   "name": "AMES NATIONAL CORP",
+   "updated": "2026-11-06T16:08:28-05:00"
+  },
+  "0001437749-26-035571": {
+   "accession": "0001437749-26-035571",
+   "attempts": 0,
+   "cik": 1053691,
+   "form": "10-Q",
+   "name": "CervoMed Inc.",
+   "updated": "2026-11-06T16:15:45-05:00"
+  },
+  "0001437749-26-035585": {
+   "accession": "0001437749-26-035585",
+   "attempts": 0,
+   "cik": 798287,
+   "form": "10-Q",
+   "name": "PAMT CORP",
+   "updated": "2026-11-06T16:28:51-05:00"
+  },
+  "0001437749-26-035599": {
+   "accession": "0001437749-26-035599",
+   "attempts": 0,
+   "cik": 1012019,
+   "form": "10-Q",
+   "name": "RUSH ENTERPRISES INC \\TX\\",
+   "updated": "2026-11-06T16:39:28-05:00"
+  },
+  "0001437749-26-035607": {
+   "accession": "0001437749-26-035607",
+   "attempts": 0,
+   "cik": 861842,
+   "form": "10-Q",
+   "name": "CATHAY GENERAL BANCORP",
+   "updated": "2026-11-06T16:52:39-05:00"
+  },
+  "0001437749-26-035614": {
+   "accession": "0001437749-26-035614",
+   "attempts": 0,
+   "cik": 1061069,
+   "form": "10-Q",
+   "name": "AVALON HOLDINGS CORP",
+   "updated": "2026-11-06T17:02:11-05:00"
+  },
+  "0001448893-26-000032": {
+   "accession": "0001448893-26-000032",
+   "attempts": 0,
+   "cik": 1448893,
+   "form": "10-Q",
+   "name": "Essent Group Ltd.",
+   "updated": "2026-11-06T16:40:44-05:00"
+  },
+  "0001467623-26-000061": {
+   "accession": "0001467623-26-000061",
+   "attempts": 0,
+   "cik": 1467623,
+   "form": "10-Q",
+   "name": "DROPBOX, INC.",
+   "updated": "2026-11-06T16:05:50-05:00"
   },
   "0001477932-26-006739": {
    "accession": "0001477932-26-006739",
@@ -1191,6 +1879,30 @@
    "form": "10-Q",
    "name": "Agentix Corp.",
    "updated": "2026-11-06T10:44:48-05:00"
+  },
+  "0001477932-26-006758": {
+   "accession": "0001477932-26-006758",
+   "attempts": 0,
+   "cik": 1187953,
+   "form": "10-Q",
+   "name": "CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",
+   "updated": "2026-11-06T16:45:48-05:00"
+  },
+  "0001482512-26-000085": {
+   "accession": "0001482512-26-000085",
+   "attempts": 0,
+   "cik": 1482512,
+   "form": "10-Q",
+   "name": "Hudson Pacific Properties, Inc.",
+   "updated": "2026-11-06T14:33:53-05:00"
+  },
+  "0001488813-26-000105": {
+   "accession": "0001488813-26-000105",
+   "attempts": 0,
+   "cik": 1488813,
+   "form": "10-Q",
+   "name": "Customers Bancorp, Inc.",
+   "updated": "2026-11-06T16:34:12-05:00"
   },
   "0001493152-26-050354": {
    "accession": "0001493152-26-050354",
@@ -1208,29 +1920,197 @@
    "name": "STRATEGIC ACQUISITIONS INC /NV/",
    "updated": "2026-11-06T10:32:01-05:00"
   },
-  "0001511337-26-000029": {
-   "accession": "0001511337-26-000029",
+  "0001493152-26-050421": {
+   "accession": "0001493152-26-050421",
    "attempts": 0,
-   "cik": 1511337,
+   "cik": 1690437,
    "form": "10-Q",
-   "name": "RLJ Lodging Trust",
-   "updated": "2026-11-05T17:13:38-05:00"
+   "name": "GraniteShares Gold Trust",
+   "updated": "2026-11-06T14:16:11-05:00"
   },
-  "0001511737-26-000074": {
-   "accession": "0001511737-26-000074",
+  "0001493152-26-050425": {
+   "accession": "0001493152-26-050425",
    "attempts": 0,
-   "cik": 1511737,
+   "cik": 1022899,
    "form": "10-Q",
-   "name": "Ubiquiti Inc.",
-   "updated": "2026-11-06T07:01:36-05:00"
+   "name": "Protagenic Therapeutics, Inc.\\new",
+   "updated": "2026-11-06T14:28:01-05:00"
   },
-  "0001534120-26-000057": {
-   "accession": "0001534120-26-000057",
-   "attempts": 5,
-   "cik": 1534120,
+  "0001493152-26-050430": {
+   "accession": "0001493152-26-050430",
+   "attempts": 0,
+   "cik": 1879293,
    "form": "10-Q",
-   "name": "Avalo Therapeutics, Inc.",
-   "updated": "2026-11-05T07:04:33-05:00"
+   "name": "Mag Mile Capital, Inc.",
+   "updated": "2026-11-06T14:50:42-05:00"
+  },
+  "0001493152-26-050444": {
+   "accession": "0001493152-26-050444",
+   "attempts": 0,
+   "cik": 1690842,
+   "form": "10-Q",
+   "name": "GraniteShares Platinum Trust",
+   "updated": "2026-11-06T16:01:06-05:00"
+  },
+  "0001493152-26-050460": {
+   "accession": "0001493152-26-050460",
+   "attempts": 0,
+   "cik": 2094712,
+   "form": "10-Q",
+   "name": "ARC Group Securities Acquisition I",
+   "updated": "2026-11-06T16:05:48-05:00"
+  },
+  "0001493152-26-050461": {
+   "accession": "0001493152-26-050461",
+   "attempts": 0,
+   "cik": 1005101,
+   "form": "10-Q",
+   "name": "Marygold Companies, Inc.",
+   "updated": "2026-11-06T16:05:49-05:00"
+  },
+  "0001493152-26-050462": {
+   "accession": "0001493152-26-050462",
+   "attempts": 0,
+   "cik": 1540684,
+   "form": "10-Q",
+   "name": "Atlas Lithium Corp",
+   "updated": "2026-11-06T16:05:59-05:00"
+  },
+  "0001493152-26-050470": {
+   "accession": "0001493152-26-050470",
+   "attempts": 0,
+   "cik": 1737995,
+   "form": "10-Q",
+   "name": "SkyAI, Inc.",
+   "updated": "2026-11-06T16:13:15-05:00"
+  },
+  "0001493152-26-050472": {
+   "accession": "0001493152-26-050472",
+   "attempts": 0,
+   "cik": 2074878,
+   "form": "10-Q",
+   "name": "New America Acquisition I Corp.",
+   "updated": "2026-11-06T16:15:38-05:00"
+  },
+  "0001493152-26-050474": {
+   "accession": "0001493152-26-050474",
+   "attempts": 0,
+   "cik": 1956744,
+   "form": "10-Q",
+   "name": "Tron Inc.",
+   "updated": "2026-11-06T16:15:52-05:00"
+  },
+  "0001493152-26-050483": {
+   "accession": "0001493152-26-050483",
+   "attempts": 0,
+   "cik": 1981535,
+   "form": "10-Q",
+   "name": "Sharplink, Inc.",
+   "updated": "2026-11-06T16:30:58-05:00"
+  },
+  "0001493152-26-050489": {
+   "accession": "0001493152-26-050489",
+   "attempts": 0,
+   "cik": 1971532,
+   "form": "10-Q",
+   "name": "Telomir Pharmaceuticals, Inc.",
+   "updated": "2026-11-06T16:41:12-05:00"
+  },
+  "0001493152-26-050501": {
+   "accession": "0001493152-26-050501",
+   "attempts": 0,
+   "cik": 748592,
+   "form": "10-Q",
+   "name": "Ernexa Therapeutics Inc.",
+   "updated": "2026-11-06T16:50:40-05:00"
+  },
+  "0001493152-26-050524": {
+   "accession": "0001493152-26-050524",
+   "attempts": 0,
+   "cik": 1591890,
+   "form": "10-Q",
+   "name": "FG Communities Holdings Inc.",
+   "updated": "2026-11-06T17:16:28-05:00"
+  },
+  "0001493152-26-050535": {
+   "accession": "0001493152-26-050535",
+   "attempts": 0,
+   "cik": 1532619,
+   "form": "10-Q",
+   "name": "Power REIT",
+   "updated": "2026-11-06T17:25:28-05:00"
+  },
+  "0001493152-26-050540": {
+   "accession": "0001493152-26-050540",
+   "attempts": 0,
+   "cik": 1712762,
+   "form": "10-Q",
+   "name": "bioAffinity Technologies, Inc.",
+   "updated": "2026-11-06T17:27:52-05:00"
+  },
+  "0001493152-26-050545": {
+   "accession": "0001493152-26-050545",
+   "attempts": 0,
+   "cik": 2030954,
+   "form": "10-Q",
+   "name": "TEN Holdings, Inc.",
+   "updated": "2026-11-06T17:29:45-05:00"
+  },
+  "0001516912-26-000067": {
+   "accession": "0001516912-26-000067",
+   "attempts": 0,
+   "cik": 1516912,
+   "form": "10-Q",
+   "name": "Origin Bancorp, Inc.",
+   "updated": "2026-11-06T14:39:59-05:00"
+  },
+  "0001518715-26-000073": {
+   "accession": "0001518715-26-000073",
+   "attempts": 0,
+   "cik": 1518715,
+   "form": "10-Q",
+   "name": "Mechanics Bancorp",
+   "updated": "2026-11-06T15:49:35-05:00"
+  },
+  "0001519449-26-000063": {
+   "accession": "0001519449-26-000063",
+   "attempts": 0,
+   "cik": 1519449,
+   "form": "10-Q",
+   "name": "Skyward Specialty Insurance Group, Inc.",
+   "updated": "2026-11-06T15:56:25-05:00"
+  },
+  "0001520006-26-000058": {
+   "accession": "0001520006-26-000058",
+   "attempts": 0,
+   "cik": 1520006,
+   "form": "10-Q",
+   "name": "Matador Resources Co",
+   "updated": "2026-11-06T16:24:08-05:00"
+  },
+  "0001520138-26-000461": {
+   "accession": "0001520138-26-000461",
+   "attempts": 0,
+   "cik": 1580149,
+   "form": "10-Q",
+   "name": "BIOVIE INC.",
+   "updated": "2026-11-06T17:15:59-05:00"
+  },
+  "0001527166-26-000053": {
+   "accession": "0001527166-26-000053",
+   "attempts": 0,
+   "cik": 1527166,
+   "form": "10-Q",
+   "name": "Carlyle Group Inc.",
+   "updated": "2026-11-06T16:24:49-05:00"
+  },
+  "0001528985-26-000009": {
+   "accession": "0001528985-26-000009",
+   "attempts": 0,
+   "cik": 1528985,
+   "form": "10-Q",
+   "name": "Inland Real Estate Income Trust, Inc.",
+   "updated": "2026-11-06T15:33:58-05:00"
   },
   "0001535778-26-000109": {
    "accession": "0001535778-26-000109",
@@ -1240,41 +2120,17 @@
    "name": "MSC INCOME FUND, INC.",
    "updated": "2026-11-06T12:22:19-05:00"
   },
-  "0001546417-26-000045": {
-   "accession": "0001546417-26-000045",
+  "0001538263-26-000123": {
+   "accession": "0001538263-26-000123",
    "attempts": 0,
-   "cik": 1546417,
+   "cik": 1538263,
    "form": "10-Q",
-   "name": "Bloomin' Brands, Inc.",
-   "updated": "2026-11-06T07:05:40-05:00"
-  },
-  "0001547903-26-000045": {
-   "accession": "0001547903-26-000045",
-   "attempts": 0,
-   "cik": 1547903,
-   "form": "10-Q",
-   "name": "NMI Holdings, Inc.",
-   "updated": "2026-11-05T18:09:41-05:00"
-  },
-  "0001561032-26-000075": {
-   "accession": "0001561032-26-000075",
-   "attempts": 0,
-   "cik": 1561032,
-   "form": "10-Q",
-   "name": "National Healthcare Properties, Inc.",
-   "updated": "2026-11-05T18:29:12-05:00"
-  },
-  "0001561894-26-000143": {
-   "accession": "0001561894-26-000143",
-   "attempts": 0,
-   "cik": 1561894,
-   "form": "10-Q",
-   "name": "HA Sustainable Infrastructure Capital, Inc.",
-   "updated": "2026-11-06T06:37:10-05:00"
+   "name": "HomeTrust Bancshares, Inc.",
+   "updated": "2026-11-06T16:06:53-05:00"
   },
   "0001562401-26-000058": {
    "accession": "0001562401-26-000058",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1562401,
    "form": "10-Q",
    "name": "American Homes 4 Rent",
@@ -1296,13 +2152,21 @@
    "name": "Compass, Inc.",
    "updated": "2026-11-06T07:11:48-05:00"
   },
-  "0001576280-26-000044": {
-   "accession": "0001576280-26-000044",
+  "0001579877-26-000051": {
+   "accession": "0001579877-26-000051",
    "attempts": 0,
-   "cik": 1576280,
+   "cik": 1579877,
    "form": "10-Q",
-   "name": "Guardant Health, Inc.",
-   "updated": "2026-11-05T17:13:13-05:00"
+   "name": "OUTFRONT Media Inc.",
+   "updated": "2026-11-06T16:04:32-05:00"
+  },
+  "0001585389-26-000020": {
+   "accession": "0001585389-26-000020",
+   "attempts": 0,
+   "cik": 1585389,
+   "form": "10-Q",
+   "name": "SmartStop Self Storage REIT, Inc.",
+   "updated": "2026-11-06T16:06:54-05:00"
   },
   "0001591698-26-000153": {
    "accession": "0001591698-26-000153",
@@ -1312,33 +2176,49 @@
    "name": "Paylocity Holding Corp",
    "updated": "2026-11-06T10:04:36-05:00"
   },
-  "0001599298-26-000090": {
-   "accession": "0001599298-26-000090",
-   "attempts": 5,
-   "cik": 1599298,
+  "0001591956-26-000030": {
+   "accession": "0001591956-26-000030",
+   "attempts": 0,
+   "cik": 1591956,
    "form": "10-Q",
-   "name": "Summit Therapeutics Inc.",
-   "updated": "2026-11-04T17:08:01-05:00"
+   "name": "DarkHorse Technologies Inc.",
+   "updated": "2026-11-06T16:06:03-05:00"
+  },
+  "0001592386-26-000034": {
+   "accession": "0001592386-26-000034",
+   "attempts": 0,
+   "cik": 1592386,
+   "form": "10-Q",
+   "name": "Virtu Financial, Inc.",
+   "updated": "2026-11-06T16:48:07-05:00"
   },
   "0001601485-26-000066": {
    "accession": "0001601485-26-000066",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1601485,
    "form": "10-Q",
    "name": "Elicio Therapeutics, Inc.",
    "updated": "2026-11-05T16:14:49-05:00"
   },
-  "0001612630-26-000079": {
-   "accession": "0001612630-26-000079",
+  "0001603978-26-000113": {
+   "accession": "0001603978-26-000113",
    "attempts": 0,
-   "cik": 1612630,
+   "cik": 1603978,
    "form": "10-Q",
-   "name": "JOINT Corp",
-   "updated": "2026-11-05T17:54:16-05:00"
+   "name": "AQUABOUNTY TECHNOLOGIES INC",
+   "updated": "2026-11-06T16:04:31-05:00"
+  },
+  "0001606366-26-000063": {
+   "accession": "0001606366-26-000063",
+   "attempts": 0,
+   "cik": 1606366,
+   "form": "10-Q",
+   "name": "El Pollo Loco Holdings, Inc.",
+   "updated": "2026-11-06T17:00:32-05:00"
   },
   "0001617242-26-000033": {
    "accession": "0001617242-26-000033",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1617242,
    "form": "10-Q",
    "name": "Kearny Financial Corp.",
@@ -1346,171 +2226,11 @@
   },
   "0001628280-26-071014": {
    "accession": "0001628280-26-071014",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1040971,
    "form": "10-Q",
    "name": "SL GREEN REALTY CORP",
    "updated": "2026-11-05T16:07:02-05:00"
-  },
-  "0001628280-26-071153": {
-   "accession": "0001628280-26-071153",
-   "attempts": 0,
-   "cik": 1820953,
-   "form": "10-Q",
-   "name": "Affirm Holdings, Inc.",
-   "updated": "2026-11-05T17:03:16-05:00"
-  },
-  "0001628280-26-071154": {
-   "accession": "0001628280-26-071154",
-   "attempts": 0,
-   "cik": 1667011,
-   "form": "10-Q",
-   "name": "Arteris, Inc.",
-   "updated": "2026-11-05T17:03:49-05:00"
-  },
-  "0001628280-26-071161": {
-   "accession": "0001628280-26-071161",
-   "attempts": 0,
-   "cik": 19745,
-   "form": "10-Q",
-   "name": "CHESAPEAKE UTILITIES CORP",
-   "updated": "2026-11-05T17:06:53-05:00"
-  },
-  "0001628280-26-071162": {
-   "accession": "0001628280-26-071162",
-   "attempts": 0,
-   "cik": 1606909,
-   "form": "10-Q",
-   "name": "Pangaea Logistics Solutions Ltd.",
-   "updated": "2026-11-05T17:06:53-05:00"
-  },
-  "0001628280-26-071165": {
-   "accession": "0001628280-26-071165",
-   "attempts": 0,
-   "cik": 1237831,
-   "form": "10-Q",
-   "name": "GLOBUS MEDICAL INC",
-   "updated": "2026-11-05T17:08:04-05:00"
-  },
-  "0001628280-26-071166": {
-   "accession": "0001628280-26-071166",
-   "attempts": 0,
-   "cik": 873860,
-   "form": "10-Q",
-   "name": "ONITY GROUP INC.",
-   "updated": "2026-11-05T17:08:30-05:00"
-  },
-  "0001628280-26-071167": {
-   "accession": "0001628280-26-071167",
-   "attempts": 0,
-   "cik": 1455863,
-   "form": "10-Q",
-   "name": "AMERICOLD REALTY TRUST",
-   "updated": "2026-11-05T17:10:20-05:00"
-  },
-  "0001628280-26-071173": {
-   "accession": "0001628280-26-071173",
-   "attempts": 0,
-   "cik": 1818093,
-   "form": "10-Q",
-   "name": "SkinHealth Systems Inc.",
-   "updated": "2026-11-05T17:16:36-05:00"
-  },
-  "0001628280-26-071179": {
-   "accession": "0001628280-26-071179",
-   "attempts": 0,
-   "cik": 1349436,
-   "form": "10-Q",
-   "name": "SANDRIDGE ENERGY INC",
-   "updated": "2026-11-05T17:21:34-05:00"
-  },
-  "0001628280-26-071182": {
-   "accession": "0001628280-26-071182",
-   "attempts": 0,
-   "cik": 1299969,
-   "form": "10-Q",
-   "name": "Comstock Holding Companies, Inc.",
-   "updated": "2026-11-05T17:22:04-05:00"
-  },
-  "0001628280-26-071191": {
-   "accession": "0001628280-26-071191",
-   "attempts": 0,
-   "cik": 1737287,
-   "form": "10-Q",
-   "name": "Allogene Therapeutics, Inc.",
-   "updated": "2026-11-05T17:31:59-05:00"
-  },
-  "0001628280-26-071196": {
-   "accession": "0001628280-26-071196",
-   "attempts": 0,
-   "cik": 1786352,
-   "form": "10-Q",
-   "name": "BILL Holdings, Inc.",
-   "updated": "2026-11-05T17:33:31-05:00"
-  },
-  "0001628280-26-071199": {
-   "accession": "0001628280-26-071199",
-   "attempts": 0,
-   "cik": 1770787,
-   "form": "10-Q",
-   "name": "10x Genomics, Inc.",
-   "updated": "2026-11-05T17:35:05-05:00"
-  },
-  "0001628280-26-071218": {
-   "accession": "0001628280-26-071218",
-   "attempts": 0,
-   "cik": 63276,
-   "form": "10-Q",
-   "name": "MATTEL INC /DE/",
-   "updated": "2026-11-05T17:58:21-05:00"
-  },
-  "0001628280-26-071225": {
-   "accession": "0001628280-26-071225",
-   "attempts": 0,
-   "cik": 1759509,
-   "form": "10-Q",
-   "name": "Lyft, Inc.",
-   "updated": "2026-11-05T18:06:41-05:00"
-  },
-  "0001628280-26-071229": {
-   "accession": "0001628280-26-071229",
-   "attempts": 0,
-   "cik": 1142750,
-   "form": "10-Q",
-   "name": "AMN HEALTHCARE SERVICES INC",
-   "updated": "2026-11-05T18:25:45-05:00"
-  },
-  "0001628280-26-071242": {
-   "accession": "0001628280-26-071242",
-   "attempts": 0,
-   "cik": 1069183,
-   "form": "10-Q",
-   "name": "AXON ENTERPRISE, INC.",
-   "updated": "2026-11-05T19:07:28-05:00"
-  },
-  "0001628280-26-071243": {
-   "accession": "0001628280-26-071243",
-   "attempts": 0,
-   "cik": 1477815,
-   "form": "10-Q",
-   "name": "Sweetgreen, Inc.",
-   "updated": "2026-11-05T19:07:36-05:00"
-  },
-  "0001628280-26-071247": {
-   "accession": "0001628280-26-071247",
-   "attempts": 0,
-   "cik": 1127371,
-   "form": "10-Q",
-   "name": "Community West Bancshares",
-   "updated": "2026-11-05T19:37:57-05:00"
-  },
-  "0001628280-26-071300": {
-   "accession": "0001628280-26-071300",
-   "attempts": 0,
-   "cik": 1847590,
-   "form": "10-Q",
-   "name": "Bowman Consulting Group Ltd.",
-   "updated": "2026-11-06T06:47:18-05:00"
   },
   "0001628280-26-071319": {
    "accession": "0001628280-26-071319",
@@ -1616,45 +2336,357 @@
    "name": "ARTIVION, INC.",
    "updated": "2026-11-06T12:16:32-05:00"
   },
-  "0001632127-26-000038": {
-   "accession": "0001632127-26-000038",
+  "0001628280-26-071504": {
+   "accession": "0001628280-26-071504",
    "attempts": 0,
-   "cik": 1632127,
+   "cik": 914156,
    "form": "10-Q",
-   "name": "Cable One, Inc.",
-   "updated": "2026-11-05T17:15:50-05:00"
+   "name": "UFP TECHNOLOGIES INC",
+   "updated": "2026-11-06T13:14:45-05:00"
   },
-  "0001636422-26-000125": {
-   "accession": "0001636422-26-000125",
+  "0001628280-26-071505": {
+   "accession": "0001628280-26-071505",
    "attempts": 0,
-   "cik": 1636422,
+   "cik": 913241,
    "form": "10-Q",
-   "name": "Health Catalyst, Inc.",
-   "updated": "2026-11-05T17:17:30-05:00"
+   "name": "STEVEN MADDEN, LTD.",
+   "updated": "2026-11-06T13:15:12-05:00"
+  },
+  "0001628280-26-071515": {
+   "accession": "0001628280-26-071515",
+   "attempts": 0,
+   "cik": 1694426,
+   "form": "10-Q",
+   "name": "Delek US Holdings, Inc.",
+   "updated": "2026-11-06T13:31:37-05:00"
+  },
+  "0001628280-26-071518": {
+   "accession": "0001628280-26-071518",
+   "attempts": 0,
+   "cik": 1046257,
+   "form": "10-Q",
+   "name": "Ingredion Inc",
+   "updated": "2026-11-06T13:36:09-05:00"
+  },
+  "0001628280-26-071520": {
+   "accession": "0001628280-26-071520",
+   "attempts": 0,
+   "cik": 1552797,
+   "form": "10-Q",
+   "name": "Delek Logistics Partners, LP",
+   "updated": "2026-11-06T13:37:27-05:00"
+  },
+  "0001628280-26-071541": {
+   "accession": "0001628280-26-071541",
+   "attempts": 0,
+   "cik": 13372,
+   "form": "10-Q",
+   "name": "NSTAR ELECTRIC CO",
+   "updated": "2026-11-06T14:07:05-05:00"
+  },
+  "0001628280-26-071543": {
+   "accession": "0001628280-26-071543",
+   "attempts": 0,
+   "cik": 1046025,
+   "form": "10-Q",
+   "name": "HERITAGE FINANCIAL CORP /WA/",
+   "updated": "2026-11-06T14:10:05-05:00"
+  },
+  "0001628280-26-071545": {
+   "accession": "0001628280-26-071545",
+   "attempts": 0,
+   "cik": 879585,
+   "form": "10-Q",
+   "name": "ATN International, Inc.",
+   "updated": "2026-11-06T14:10:41-05:00"
+  },
+  "0001628280-26-071569": {
+   "accession": "0001628280-26-071569",
+   "attempts": 0,
+   "cik": 1411342,
+   "form": "10-Q",
+   "name": "Ellington Financial Inc.",
+   "updated": "2026-11-06T14:58:26-05:00"
+  },
+  "0001628280-26-071589": {
+   "accession": "0001628280-26-071589",
+   "attempts": 0,
+   "cik": 1587987,
+   "form": "10-Q",
+   "name": "NewtekOne, Inc.",
+   "updated": "2026-11-06T15:20:50-05:00"
+  },
+  "0001628280-26-071604": {
+   "accession": "0001628280-26-071604",
+   "attempts": 0,
+   "cik": 1697500,
+   "form": "10-Q",
+   "name": "Solaris Energy Infrastructure, Inc.",
+   "updated": "2026-11-06T15:33:23-05:00"
+  },
+  "0001628280-26-071617": {
+   "accession": "0001628280-26-071617",
+   "attempts": 0,
+   "cik": 2031750,
+   "form": "10-Q",
+   "name": "Ares Core Infrastructure Fund",
+   "updated": "2026-11-06T15:45:46-05:00"
+  },
+  "0001628280-26-071628": {
+   "accession": "0001628280-26-071628",
+   "attempts": 0,
+   "cik": 1176948,
+   "form": "10-Q",
+   "name": "Ares Management Corp",
+   "updated": "2026-11-06T15:52:04-05:00"
+  },
+  "0001628280-26-071654": {
+   "accession": "0001628280-26-071654",
+   "attempts": 0,
+   "cik": 1611115,
+   "form": "10-Q",
+   "name": "Omada Health, Inc.",
+   "updated": "2026-11-06T16:03:25-05:00"
+  },
+  "0001628280-26-071659": {
+   "accession": "0001628280-26-071659",
+   "attempts": 0,
+   "cik": 1387467,
+   "form": "10-Q",
+   "name": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+   "updated": "2026-11-06T16:04:21-05:00"
+  },
+  "0001628280-26-071670": {
+   "accession": "0001628280-26-071670",
+   "attempts": 0,
+   "cik": 1680062,
+   "form": "10-Q",
+   "name": "ACM Research, Inc.",
+   "updated": "2026-11-06T16:06:36-05:00"
+  },
+  "0001628280-26-071671": {
+   "accession": "0001628280-26-071671",
+   "attempts": 0,
+   "cik": 1083301,
+   "form": "10-Q",
+   "name": "TERAWULF INC.",
+   "updated": "2026-11-06T16:07:00-05:00"
+  },
+  "0001628280-26-071672": {
+   "accession": "0001628280-26-071672",
+   "attempts": 0,
+   "cik": 1666134,
+   "form": "10-Q",
+   "name": "BLACKLINE, INC.",
+   "updated": "2026-11-06T16:06:53-05:00"
+  },
+  "0001628280-26-071678": {
+   "accession": "0001628280-26-071678",
+   "attempts": 0,
+   "cik": 1828937,
+   "form": "10-Q",
+   "name": "Finance of America Companies Inc.",
+   "updated": "2026-11-06T16:09:43-05:00"
+  },
+  "0001628280-26-071681": {
+   "accession": "0001628280-26-071681",
+   "attempts": 0,
+   "cik": 1434621,
+   "form": "10-Q",
+   "name": "LendingTree, Inc.",
+   "updated": "2026-11-06T16:10:38-05:00"
+  },
+  "0001628280-26-071683": {
+   "accession": "0001628280-26-071683",
+   "attempts": 0,
+   "cik": 1169770,
+   "form": "10-Q",
+   "name": "BANC OF CALIFORNIA, INC.",
+   "updated": "2026-11-06T16:12:12-05:00"
+  },
+  "0001628280-26-071686": {
+   "accession": "0001628280-26-071686",
+   "attempts": 0,
+   "cik": 1853138,
+   "form": "10-Q",
+   "name": "Kodiak AI, Inc.",
+   "updated": "2026-11-06T16:14:19-05:00"
+  },
+  "0001628280-26-071687": {
+   "accession": "0001628280-26-071687",
+   "attempts": 0,
+   "cik": 1580808,
+   "form": "10-Q",
+   "name": "A10 Networks, Inc.",
+   "updated": "2026-11-06T16:14:19-05:00"
+  },
+  "0001628280-26-071703": {
+   "accession": "0001628280-26-071703",
+   "attempts": 0,
+   "cik": 1527590,
+   "form": "10-Q",
+   "name": "Ready Capital Corp",
+   "updated": "2026-11-06T16:18:52-05:00"
+  },
+  "0001628280-26-071710": {
+   "accession": "0001628280-26-071710",
+   "attempts": 0,
+   "cik": 2055116,
+   "form": "10-Q",
+   "name": "Kestrel Group Ltd",
+   "updated": "2026-11-06T16:19:57-05:00"
+  },
+  "0001628280-26-071717": {
+   "accession": "0001628280-26-071717",
+   "attempts": 0,
+   "cik": 1918712,
+   "form": "10-Q",
+   "name": "ARES STRATEGIC INCOME FUND",
+   "updated": "2026-11-06T16:24:00-05:00"
+  },
+  "0001628280-26-071719": {
+   "accession": "0001628280-26-071719",
+   "attempts": 0,
+   "cik": 1690680,
+   "form": "10-Q",
+   "name": "NEWMARK GROUP, INC.",
+   "updated": "2026-11-06T16:24:23-05:00"
+  },
+  "0001628280-26-071728": {
+   "accession": "0001628280-26-071728",
+   "attempts": 0,
+   "cik": 1823144,
+   "form": "10-Q",
+   "name": "GPGI, Inc.",
+   "updated": "2026-11-06T16:27:42-05:00"
+  },
+  "0001628280-26-071730": {
+   "accession": "0001628280-26-071730",
+   "attempts": 0,
+   "cik": 1726173,
+   "form": "10-Q",
+   "name": "Biglari Holdings Inc.",
+   "updated": "2026-11-06T16:28:51-05:00"
+  },
+  "0001628280-26-071736": {
+   "accession": "0001628280-26-071736",
+   "attempts": 0,
+   "cik": 1499422,
+   "form": "10-Q",
+   "name": "RBB Bancorp",
+   "updated": "2026-11-06T16:32:16-05:00"
+  },
+  "0001628280-26-071748": {
+   "accession": "0001628280-26-071748",
+   "attempts": 0,
+   "cik": 1533615,
+   "form": "10-Q",
+   "name": "Chiron Real Estate Inc.",
+   "updated": "2026-11-06T16:42:17-05:00"
+  },
+  "0001628280-26-071762": {
+   "accession": "0001628280-26-071762",
+   "attempts": 0,
+   "cik": 1178970,
+   "form": "10-Q",
+   "name": "PROVIDENT FINANCIAL SERVICES INC",
+   "updated": "2026-11-06T16:47:59-05:00"
+  },
+  "0001628280-26-071767": {
+   "accession": "0001628280-26-071767",
+   "attempts": 0,
+   "cik": 899923,
+   "form": "10-Q",
+   "name": "MYRIAD GENETICS INC",
+   "updated": "2026-11-06T16:51:10-05:00"
+  },
+  "0001628280-26-071768": {
+   "accession": "0001628280-26-071768",
+   "attempts": 0,
+   "cik": 1893262,
+   "form": "10-Q",
+   "name": "J.P. Morgan Real Estate Income Trust, Inc.",
+   "updated": "2026-11-06T16:51:33-05:00"
+  },
+  "0001628280-26-071778": {
+   "accession": "0001628280-26-071778",
+   "attempts": 0,
+   "cik": 1787117,
+   "form": "10-Q",
+   "name": "Reformation Inc.",
+   "updated": "2026-11-06T17:02:23-05:00"
+  },
+  "0001628280-26-071780": {
+   "accession": "0001628280-26-071780",
+   "attempts": 0,
+   "cik": 1925283,
+   "form": "10-Q",
+   "name": "Lincoln International, Inc.",
+   "updated": "2026-11-06T17:08:32-05:00"
+  },
+  "0001628280-26-071782": {
+   "accession": "0001628280-26-071782",
+   "attempts": 0,
+   "cik": 1578732,
+   "form": "10-Q",
+   "name": "Marcus & Millichap, Inc.",
+   "updated": "2026-11-06T17:14:46-05:00"
+  },
+  "0001628280-26-071791": {
+   "accession": "0001628280-26-071791",
+   "attempts": 0,
+   "cik": 1514281,
+   "form": "10-Q",
+   "name": "TPG Mortgage Investment Trust, Inc.",
+   "updated": "2026-11-06T17:23:15-05:00"
+  },
+  "0001637880-26-000052": {
+   "accession": "0001637880-26-000052",
+   "attempts": 0,
+   "cik": 1637880,
+   "form": "10-Q",
+   "name": "Tri-State Generation & Transmission Association, Inc.",
+   "updated": "2026-11-06T12:33:54-05:00"
   },
   "0001640334-26-001752": {
    "accession": "0001640334-26-001752",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1794942,
    "form": "10-Q",
    "name": "Stark Focus Group, Inc.",
    "updated": "2026-11-05T13:04:26-05:00"
   },
-  "0001647088-26-000071": {
-   "accession": "0001647088-26-000071",
+  "0001650372-26-000054": {
+   "accession": "0001650372-26-000054",
    "attempts": 0,
-   "cik": 1647088,
+   "cik": 1650372,
    "form": "10-Q",
-   "name": "WillScot Holdings Corp",
-   "updated": "2026-11-05T17:04:54-05:00"
+   "name": "Atlassian Corp",
+   "updated": "2026-11-06T16:06:33-05:00"
   },
   "0001654954-26-009567": {
    "accession": "0001654954-26-009567",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 917225,
    "form": "10-Q",
    "name": "SOLITARIO RESOURCES CORP.",
    "updated": "2026-11-05T16:37:56-05:00"
+  },
+  "0001654954-26-009601": {
+   "accession": "0001654954-26-009601",
+   "attempts": 0,
+   "cik": 1040470,
+   "form": "10-Q",
+   "name": "AEHR TEST SYSTEMS",
+   "updated": "2026-11-06T17:03:55-05:00"
+  },
+  "0001655887-26-000025": {
+   "accession": "0001655887-26-000025",
+   "attempts": 0,
+   "cik": 1655887,
+   "form": "10-Q",
+   "name": "Blue Owl Capital Corp II",
+   "updated": "2026-11-06T16:24:11-05:00"
   },
   "0001661306-26-000098": {
    "accession": "0001661306-26-000098",
@@ -1664,6 +2696,14 @@
    "name": "Hancock Park Corporate Income, Inc.",
    "updated": "2026-11-06T11:51:36-05:00"
   },
+  "0001662972-26-000167": {
+   "accession": "0001662972-26-000167",
+   "attempts": 0,
+   "cik": 1662972,
+   "form": "10-Q",
+   "name": "Blackstone Real Estate Income Trust, Inc.",
+   "updated": "2026-11-06T16:42:33-05:00"
+  },
   "0001671927-26-000035": {
    "accession": "0001671927-26-000035",
    "attempts": 0,
@@ -1672,37 +2712,53 @@
    "name": "Immunocore Holdings plc",
    "updated": "2026-11-06T09:01:45-05:00"
   },
-  "0001685040-26-000037": {
-   "accession": "0001685040-26-000037",
+  "0001674356-26-000029": {
+   "accession": "0001674356-26-000029",
    "attempts": 0,
-   "cik": 1685040,
+   "cik": 1674356,
    "form": "10-Q",
-   "name": "Brighthouse Financial, Inc.",
-   "updated": "2026-11-05T17:17:17-05:00"
+   "name": "Terra Property Trust, Inc.",
+   "updated": "2026-11-06T16:51:18-05:00"
   },
-  "0001692787-26-000146": {
-   "accession": "0001692787-26-000146",
+  "0001682852-26-000197": {
+   "accession": "0001682852-26-000197",
    "attempts": 0,
-   "cik": 1692787,
+   "cik": 1682852,
    "form": "10-Q",
-   "name": "Kinetik Holdings Inc.",
-   "updated": "2026-11-05T17:20:35-05:00"
+   "name": "Moderna, Inc.",
+   "updated": "2026-11-06T16:06:28-05:00"
   },
-  "0001699350-26-000064": {
-   "accession": "0001699350-26-000064",
+  "0001683168-26-008379": {
+   "accession": "0001683168-26-008379",
    "attempts": 0,
-   "cik": 1699350,
+   "cik": 2079546,
    "form": "10-Q",
-   "name": "SHOULDER INNOVATIONS, INC.",
-   "updated": "2026-11-05T17:08:22-05:00"
+   "name": "Cibatella Corp.",
+   "updated": "2026-11-06T15:47:12-05:00"
   },
-  "0001702780-26-000074": {
-   "accession": "0001702780-26-000074",
+  "0001683168-26-008381": {
+   "accession": "0001683168-26-008381",
    "attempts": 0,
-   "cik": 1702780,
+   "cik": 1829794,
    "form": "10-Q",
-   "name": "Optimum Communications, Inc.",
-   "updated": "2026-11-06T07:04:54-05:00"
+   "name": "Empery Digital Inc.",
+   "updated": "2026-11-06T16:06:32-05:00"
+  },
+  "0001683168-26-008383": {
+   "accession": "0001683168-26-008383",
+   "attempts": 0,
+   "cik": 1289237,
+   "form": "10-Q",
+   "name": "U. S. Premium Beef, LLC",
+   "updated": "2026-11-06T16:16:53-05:00"
+  },
+  "0001688757-26-000062": {
+   "accession": "0001688757-26-000062",
+   "attempts": 0,
+   "cik": 1688757,
+   "form": "10-Q",
+   "name": "ESTABLISHMENT LABS HOLDINGS INC.",
+   "updated": "2026-11-06T16:59:35-05:00"
   },
   "0001704715-26-000042": {
    "accession": "0001704715-26-000042",
@@ -1712,6 +2768,22 @@
    "name": "Alpha Metallurgical Resources, Inc.",
    "updated": "2026-11-06T07:34:30-05:00"
   },
+  "0001722010-26-000025": {
+   "accession": "0001722010-26-000025",
+   "attempts": 0,
+   "cik": 1722010,
+   "form": "10-Q",
+   "name": "OP Bancorp",
+   "updated": "2026-11-06T16:29:21-05:00"
+  },
+  "0001738827-26-000069": {
+   "accession": "0001738827-26-000069",
+   "attempts": 0,
+   "cik": 1738827,
+   "form": "10-Q",
+   "name": "KLX Energy Services Holdings, Inc.",
+   "updated": "2026-11-06T16:07:38-05:00"
+  },
   "0001739104-26-000057": {
    "accession": "0001739104-26-000057",
    "attempts": 0,
@@ -1719,6 +2791,22 @@
    "form": "10-Q",
    "name": "Elanco Animal Health Inc",
    "updated": "2026-11-06T09:10:32-05:00"
+  },
+  "0001742313-26-000066": {
+   "accession": "0001742313-26-000066",
+   "attempts": 0,
+   "cik": 1742313,
+   "form": "10-Q",
+   "name": "Monroe Capital Income Plus Corp",
+   "updated": "2026-11-06T15:11:30-05:00"
+  },
+  "0001758021-26-000037": {
+   "accession": "0001758021-26-000037",
+   "attempts": 0,
+   "cik": 1758021,
+   "form": "10-Q",
+   "name": "Karat Packaging Inc.",
+   "updated": "2026-11-06T16:23:31-05:00"
   },
   "0001765048-26-000026": {
    "accession": "0001765048-26-000026",
@@ -1736,21 +2824,29 @@
    "name": "XPEL, Inc.",
    "updated": "2026-11-06T08:47:17-05:00"
   },
+  "0001783398-26-000140": {
+   "accession": "0001783398-26-000140",
+   "attempts": 0,
+   "cik": 1783398,
+   "form": "10-Q",
+   "name": "UWM Holdings Corp",
+   "updated": "2026-11-06T15:34:59-05:00"
+  },
   "0001787400-26-000021": {
    "accession": "0001787400-26-000021",
-   "attempts": 1,
+   "attempts": 2,
    "cik": 1787400,
    "form": "10-Q",
    "name": "Nkarta, Inc.",
    "updated": "2026-11-05T16:40:17-05:00"
   },
-  "0001799191-26-000023": {
-   "accession": "0001799191-26-000023",
+  "0001795815-26-000023": {
+   "accession": "0001795815-26-000023",
    "attempts": 0,
-   "cik": 1799191,
+   "cik": 1795815,
    "form": "10-Q",
-   "name": "Starling Oncology, Inc.",
-   "updated": "2026-11-05T18:03:28-05:00"
+   "name": "California BanCorp \\ CA",
+   "updated": "2026-11-06T16:36:02-05:00"
   },
   "0001801170-26-000296": {
    "accession": "0001801170-26-000296",
@@ -1760,61 +2856,29 @@
    "name": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
    "updated": "2026-11-06T08:03:03-05:00"
   },
-  "0001801368-26-000057": {
-   "accession": "0001801368-26-000057",
+  "0001820144-26-000042": {
+   "accession": "0001820144-26-000042",
    "attempts": 0,
-   "cik": 1801368,
+   "cik": 1820144,
    "form": "10-Q",
-   "name": "MP Materials Corp. / DE",
-   "updated": "2026-11-05T18:13:56-05:00"
+   "name": "Grindr Inc.",
+   "updated": "2026-11-06T16:16:01-05:00"
   },
-  "0001822966-26-000091": {
-   "accession": "0001822966-26-000091",
+  "0001829126-26-012087": {
+   "accession": "0001829126-26-012087",
    "attempts": 0,
-   "cik": 1822966,
+   "cik": 2068454,
    "form": "10-Q",
-   "name": "NUSCALE POWER Corp",
-   "updated": "2026-11-05T17:11:29-05:00"
-  },
-  "0001823878-26-000070": {
-   "accession": "0001823878-26-000070",
-   "attempts": 0,
-   "cik": 1823878,
-   "form": "10-Q",
-   "name": "PLAYSTUDIOS, Inc.",
-   "updated": "2026-11-05T17:02:55-05:00"
-  },
-  "0001829126-26-012042": {
-   "accession": "0001829126-26-012042",
-   "attempts": 0,
-   "cik": 1820875,
-   "form": "10-Q",
-   "name": "CXApp Inc.",
-   "updated": "2026-11-05T17:29:23-05:00"
+   "name": "CSLM Digital Asset Acquisition Corp III, Ltd",
+   "updated": "2026-11-06T16:26:56-05:00"
   },
   "0001841666-26-000071": {
    "accession": "0001841666-26-000071",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1841666,
    "form": "10-Q",
    "name": "APA Corp",
    "updated": "2026-11-05T14:34:43-05:00"
-  },
-  "0001847064-26-000020": {
-   "accession": "0001847064-26-000020",
-   "attempts": 0,
-   "cik": 1847064,
-   "form": "10-Q",
-   "name": "PSQ Holdings, Inc.",
-   "updated": "2026-11-06T06:36:45-05:00"
-  },
-  "0001853145-26-000045": {
-   "accession": "0001853145-26-000045",
-   "attempts": 0,
-   "cik": 1853145,
-   "form": "10-Q",
-   "name": "EverCommerce Inc.",
-   "updated": "2026-11-05T17:09:36-05:00"
   },
   "0001856485-26-000044": {
    "accession": "0001856485-26-000044",
@@ -1824,45 +2888,53 @@
    "name": "Sylvamo Corp",
    "updated": "2026-11-06T12:17:10-05:00"
   },
-  "0001866633-26-000023": {
-   "accession": "0001866633-26-000023",
+  "0001899883-26-000043": {
+   "accession": "0001899883-26-000043",
    "attempts": 0,
-   "cik": 1866633,
+   "cik": 1899883,
    "form": "10-Q",
-   "name": "Consensus Cloud Solutions, Inc.",
-   "updated": "2026-11-05T17:57:50-05:00"
+   "name": "FTAI Infrastructure Inc.",
+   "updated": "2026-11-06T16:06:11-05:00"
   },
-  "0001870940-26-000055": {
-   "accession": "0001870940-26-000055",
+  "0001921963-26-000082": {
+   "accession": "0001921963-26-000082",
    "attempts": 0,
-   "cik": 1870940,
+   "cik": 1921963,
    "form": "10-Q",
-   "name": "Airsculpt Technologies, Inc.",
-   "updated": "2026-11-06T07:01:39-05:00"
+   "name": "Atmus Filtration Technologies Inc.",
+   "updated": "2026-11-06T13:52:47-05:00"
   },
-  "0001883313-26-000074": {
-   "accession": "0001883313-26-000074",
+  "0001929980-26-000585": {
+   "accession": "0001929980-26-000585",
    "attempts": 0,
-   "cik": 1883313,
+   "cik": 2049248,
    "form": "10-Q",
-   "name": "Savers Value Village, Inc.",
-   "updated": "2026-11-05T17:22:08-05:00"
+   "name": "Lakeshore Acquisition III Corp.",
+   "updated": "2026-11-06T16:16:03-05:00"
   },
-  "0001883685-26-000041": {
-   "accession": "0001883685-26-000041",
+  "0001934850-26-000110": {
+   "accession": "0001934850-26-000110",
    "attempts": 0,
-   "cik": 1883685,
+   "cik": 1934850,
    "form": "10-Q",
-   "name": "DraftKings Inc.",
-   "updated": "2026-11-06T07:04:29-05:00"
+   "name": "F&G Annuities & Life, Inc.",
+   "updated": "2026-11-06T16:32:26-05:00"
   },
-  "0001928446-26-000067": {
-   "accession": "0001928446-26-000067",
+  "0001941365-26-000087": {
+   "accession": "0001941365-26-000087",
    "attempts": 0,
-   "cik": 1928446,
+   "cik": 1941365,
    "form": "10-Q",
-   "name": "Granite Ridge Resources, Inc.",
-   "updated": "2026-11-05T17:29:29-05:00"
+   "name": "MasterBrand, Inc.",
+   "updated": "2026-11-06T14:42:16-05:00"
+  },
+  "0001944366-26-000095": {
+   "accession": "0001944366-26-000095",
+   "attempts": 0,
+   "cik": 1944366,
+   "form": "10-Q",
+   "name": "Blue Owl Real Estate Net Lease Trust",
+   "updated": "2026-11-06T17:25:15-05:00"
   },
   "0001950572-26-000005": {
    "accession": "0001950572-26-000005",
@@ -1872,6 +2944,14 @@
    "name": "BIP Ventures Evergreen BDC",
    "updated": "2026-11-06T09:51:36-05:00"
   },
+  "0001953366-26-000025": {
+   "accession": "0001953366-26-000025",
+   "attempts": 0,
+   "cik": 1953366,
+   "form": "10-Q",
+   "name": "Star Holdings",
+   "updated": "2026-11-06T16:03:28-05:00"
+  },
   "0001964333-26-000107": {
    "accession": "0001964333-26-000107",
    "attempts": 0,
@@ -1879,14 +2959,6 @@
    "form": "10-Q",
    "name": "Burke & Herbert Financial Services Corp.",
    "updated": "2026-11-06T08:30:41-05:00"
-  },
-  "0001964738-26-000056": {
-   "accession": "0001964738-26-000056",
-   "attempts": 0,
-   "cik": 1964738,
-   "form": "10-Q",
-   "name": "Solventum Corp",
-   "updated": "2026-11-05T17:17:36-05:00"
   },
   "0001991792-26-000012": {
    "accession": "0001991792-26-000012",
@@ -1898,27 +2970,83 @@
   },
   "0001999371-26-024638": {
    "accession": "0001999371-26-024638",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1157647,
    "form": "10-Q",
    "name": "Western New England Bancorp, Inc.",
    "updated": "2026-11-05T16:18:13-05:00"
   },
-  "0002014596-26-000077": {
-   "accession": "0002014596-26-000077",
+  "0001999371-26-024816": {
+   "accession": "0001999371-26-024816",
    "attempts": 0,
-   "cik": 2014596,
+   "cik": 1450923,
    "form": "10-Q",
-   "name": "Concentra Group Holdings Parent, Inc.",
-   "updated": "2026-11-05T17:10:00-05:00"
+   "name": "abrdn Gold ETF Trust",
+   "updated": "2026-11-06T16:46:03-05:00"
   },
-  "0002025410-26-000022": {
-   "accession": "0002025410-26-000022",
+  "0001999371-26-024819": {
+   "accession": "0001999371-26-024819",
    "attempts": 0,
-   "cik": 2025410,
+   "cik": 1459862,
    "form": "10-Q",
-   "name": "StandardAero, Inc.",
-   "updated": "2026-11-05T19:08:34-05:00"
+   "name": "abrdn Palladium ETF Trust",
+   "updated": "2026-11-06T16:52:42-05:00"
+  },
+  "0001999371-26-024821": {
+   "accession": "0001999371-26-024821",
+   "attempts": 0,
+   "cik": 1460235,
+   "form": "10-Q",
+   "name": "abrdn Platinum ETF Trust",
+   "updated": "2026-11-06T16:55:27-05:00"
+  },
+  "0001999371-26-024823": {
+   "accession": "0001999371-26-024823",
+   "attempts": 0,
+   "cik": 1483386,
+   "form": "10-Q",
+   "name": "abrdn Precious Metals Basket ETF Trust",
+   "updated": "2026-11-06T16:59:53-05:00"
+  },
+  "0001999371-26-024826": {
+   "accession": "0001999371-26-024826",
+   "attempts": 0,
+   "cik": 1450922,
+   "form": "10-Q",
+   "name": "abrdn Silver ETF Trust",
+   "updated": "2026-11-06T17:03:36-05:00"
+  },
+  "0001999784-26-000083": {
+   "accession": "0001999784-26-000083",
+   "attempts": 0,
+   "cik": 1999784,
+   "form": "10-Q",
+   "name": "North Haven Net REIT",
+   "updated": "2026-11-06T17:01:11-05:00"
+  },
+  "0002013745-26-000036": {
+   "accession": "0002013745-26-000036",
+   "attempts": 0,
+   "cik": 2013745,
+   "form": "10-Q",
+   "name": "Calumet, Inc. /DE",
+   "updated": "2026-11-06T16:02:48-05:00"
+  },
+  "0002015845-26-000061": {
+   "accession": "0002015845-26-000061",
+   "attempts": 0,
+   "cik": 2015845,
+   "form": "10-Q",
+   "name": "Everus Construction Group, Inc.",
+   "updated": "2026-11-06T17:06:14-05:00"
+  },
+  "0002069692-26-000069": {
+   "accession": "0002069692-26-000069",
+   "attempts": 0,
+   "cik": 2069692,
+   "form": "10-Q",
+   "name": "Blue Owl Digital Infrastructure Trust",
+   "updated": "2026-11-06T16:33:53-05:00"
   }
  },
  "seen": {
@@ -1956,9 +3084,11 @@
   "0000039311-26-000067": "2026-11-04",
   "0000040729-26-000023": "2026-11-03",
   "0000048287-26-000147": "2026-11-04",
+  "0000049071-26-000066": "2026-11-06",
   "0000049938-26-000051": "2026-11-03",
   "0000051253-26-000041": "2026-11-04",
   "0000051434-26-000154": "2026-11-04",
+  "0000052827-26-000106": "2026-11-06",
   "0000055135-26-000173": "2026-11-05",
   "0000057515-26-000030": "2026-11-03",
   "0000059558-26-000072": "2026-11-05",
@@ -2014,15 +3144,23 @@
   "0000313143-26-000152": "2026-11-05",
   "0000314489-26-000070": "2026-11-06",
   "0000314808-26-000155": "2026-11-03",
+  "0000316709-26-000038": "2026-11-06",
   "0000318154-26-000155": "2026-11-04",
   "0000320193-26-000026": "2026-11-03",
   "0000320335-26-000231": "2026-11-04",
+  "0000351569-26-000163": "2026-11-06",
   "0000352825-26-000058": "2026-11-04",
+  "0000354707-26-000078": "2026-11-06",
+  "0000355811-26-000065": "2026-11-06",
+  "0000356171-26-000123": "2026-11-06",
   "0000357173-26-000060": "2026-11-04",
+  "0000700564-26-000040": "2026-11-06",
   "0000703604-26-000051": "2026-11-05",
+  "0000706129-26-000087": "2026-11-06",
   "0000708781-26-000038": "2026-11-04",
   "0000708821-26-000116": "2026-11-06",
   "0000708955-26-000212": "2026-11-06",
+  "0000712537-26-000042": "2026-11-06",
   "0000714310-26-000049": "2026-11-06",
   "0000714395-26-000045": "2026-11-06",
   "0000714562-26-000071": "2026-11-04",
@@ -2052,6 +3190,8 @@
   "0000766421-26-000049": "2026-11-06",
   "0000768899-26-000040": "2026-11-04",
   "0000772406-26-000054": "2026-11-04",
+  "0000775215-26-000099": "2026-11-06",
+  "0000779152-26-000098": "2026-11-06",
   "0000785161-26-000239": "2026-11-04",
   "0000787250-26-000057": "2026-11-04",
   "0000789933-26-000189": "2026-11-04",
@@ -2060,9 +3200,11 @@
   "0000798354-26-000042": "2026-11-04",
   "0000798359-26-000094": "2026-11-03",
   "0000798941-26-000044": "2026-11-06",
+  "0000799233-26-000047": "2026-11-06",
   "0000804328-26-000128": "2026-11-04",
   "0000805676-26-000073": "2026-11-06",
   "0000811589-26-000164": "2026-11-03",
+  "0000814547-26-000042": "2026-11-06",
   "0000817720-26-000106": "2026-11-06",
   "0000818479-26-000287": "2026-11-06",
   "0000818686-26-000006": "2026-11-04",
@@ -2075,11 +3217,14 @@
   "0000827054-26-000062": "2026-11-06",
   "0000828944-26-000038": "2026-11-04",
   "0000831001-26-000056": "2026-11-06",
+  "0000831259-26-000051": "2026-11-06",
   "0000832428-26-000043": "2026-11-06",
   "0000833640-26-000156": "2026-11-06",
   "0000835324-26-000004": "2026-11-05",
   "0000837465-26-000026": "2026-11-06",
   "0000844965-26-000066": "2026-11-03",
+  "0000845877-26-000139": "2026-11-06",
+  "0000850141-26-000041": "2026-11-06",
   "0000851205-26-000082": "2026-11-05",
   "0000857855-26-000092": "2026-11-04",
   "0000860413-26-000100": "2026-11-03",
@@ -2111,11 +3256,14 @@
   "0000895419-26-000081": "2026-11-06",
   "0000895421-26-000293": "2026-11-06",
   "0000897077-26-000110": "2026-11-04",
+  "0000898173-26-000053": "2026-11-06",
+  "0000898174-26-000040": "2026-11-06",
   "0000899051-26-000157": "2026-11-04",
   "0000899689-26-000053": "2026-11-03",
   "0000906163-26-000104": "2026-11-04",
   "0000907254-26-000051": "2026-11-06",
   "0000909494-26-000013": "2026-11-06",
+  "0000910073-26-000084": "2026-11-06",
   "0000912242-26-000045": "2026-11-05",
   "0000912562-26-000173": "2026-11-05",
   "0000913341-26-000052": "2026-11-05",
@@ -2132,6 +3280,7 @@
   "0000927089-26-000188": "2026-11-06",
   "0000927628-26-000152": "2026-11-04",
   "0000927653-26-000281": "2026-11-04",
+  "0000928054-26-000102": "2026-11-06",
   "0000932696-26-000081": "2026-11-05",
   "0000934549-26-000044": "2026-11-06",
   "0000935036-26-000035": "2026-11-05",
@@ -2147,9 +3296,12 @@
   "0001001250-26-000060": "2026-11-03",
   "0001001614-26-000063": "2026-11-04",
   "0001002638-26-000098": "2026-11-05",
+  "0001002910-26-000032": "2026-11-06",
+  "0001004702-26-000125": "2026-11-06",
   "0001005229-26-000069": "2026-11-04",
   "0001005286-26-000046": "2026-11-04",
   "0001007587-26-000031": "2026-11-05",
+  "0001010470-26-000015": "2026-11-06",
   "0001013272-26-000026": "2026-11-06",
   "0001013934-26-000025": "2026-11-06",
   "0001014739-26-000029": "2026-11-04",
@@ -2169,10 +3321,12 @@
   "0001034054-26-000013": "2026-11-05",
   "0001034842-26-000061": "2026-11-06",
   "0001035092-26-000063": "2026-11-03",
+  "0001036262-26-000067": "2026-11-06",
   "0001037540-26-000043": "2026-11-06",
   "0001037646-26-000074": "2026-11-06",
   "0001037868-26-000196": "2026-11-03",
   "0001039399-26-000043": "2026-11-04",
+  "0001041061-26-000210": "2026-11-06",
   "0001042046-26-000033": "2026-11-05",
   "0001043000-26-000040": "2026-11-05",
   "0001043337-26-000093": "2026-11-04",
@@ -2191,8 +3345,10 @@
   "0001061219-26-000031": "2026-11-04",
   "0001062231-26-000154": "2026-11-06",
   "0001062822-26-000128": "2026-11-06",
+  "0001062993-26-005803": "2026-11-06",
   "0001064728-26-000070": "2026-11-06",
   "0001068148-26-000014": "2026-11-05",
+  "0001069157-26-000051": "2026-11-06",
   "0001069258-26-000088": "2026-11-06",
   "0001070750-26-000156": "2026-11-06",
   "0001071236-26-000069": "2026-11-06",
@@ -2204,19 +3360,24 @@
   "0001079973-26-001426": "2026-11-04",
   "0001079973-26-001435": "2026-11-06",
   "0001082554-26-000035": "2026-11-04",
+  "0001084048-26-000052": "2026-11-06",
   "0001084869-26-000057": "2026-11-06",
   "0001084961-26-000070": "2026-11-04",
   "0001085392-26-000020": "2026-11-05",
+  "0001086222-26-000100": "2026-11-06",
+  "0001089819-26-000017": "2026-11-06",
   "0001090425-26-000030": "2026-11-05",
   "0001091667-26-000073": "2026-11-06",
   "0001091818-26-000152": "2026-11-04",
   "0001095651-26-000035": "2026-11-04",
+  "0001096906-26-001699": "2026-11-06",
   "0001097149-26-000081": "2026-11-04",
   "0001097864-26-000021": "2026-11-03",
   "0001099219-26-000062": "2026-11-06",
   "0001099590-26-000029": "2026-11-05",
   "0001099800-26-000054": "2026-11-04",
   "0001100682-26-000157": "2026-11-04",
+  "0001104485-26-000050": "2026-11-06",
   "0001104657-26-000053": "2026-11-04",
   "0001104659-26-121109": "2026-11-03",
   "0001104659-26-121169": "2026-11-03",
@@ -2323,12 +3484,33 @@
   "0001104659-26-123684": "2026-11-06",
   "0001104659-26-123688": "2026-11-06",
   "0001104659-26-123710": "2026-11-06",
+  "0001104659-26-123743": "2026-11-06",
+  "0001104659-26-123746": "2026-11-06",
+  "0001104659-26-123798": "2026-11-06",
+  "0001104659-26-123807": "2026-11-06",
+  "0001104659-26-123818": "2026-11-06",
+  "0001104659-26-123838": "2026-11-06",
+  "0001104659-26-123839": "2026-11-06",
+  "0001104659-26-123852": "2026-11-06",
+  "0001104659-26-123854": "2026-11-06",
+  "0001104659-26-123855": "2026-11-06",
+  "0001104659-26-123856": "2026-11-06",
+  "0001104659-26-123864": "2026-11-06",
+  "0001104659-26-123869": "2026-11-06",
+  "0001104659-26-123877": "2026-11-06",
+  "0001104659-26-123881": "2026-11-06",
+  "0001104659-26-123882": "2026-11-06",
+  "0001104659-26-123904": "2026-11-06",
+  "0001104659-26-123907": "2026-11-06",
+  "0001104659-26-123927": "2026-11-06",
   "0001111928-26-000182": "2026-11-04",
   "0001116132-26-000031": "2026-11-05",
   "0001122976-26-000148": "2026-11-04",
   "0001123360-26-000093": "2026-11-06",
   "0001124198-26-000078": "2026-11-06",
+  "0001124796-26-000043": "2026-11-06",
   "0001127537-26-000048": "2026-11-04",
+  "0001128361-26-000055": "2026-11-06",
   "0001136893-26-000063": "2026-11-04",
   "0001137774-26-000221": "2026-11-04",
   "0001140361-26-041401": "2026-11-03",
@@ -2341,6 +3523,9 @@
   "0001140361-26-042155": "2026-11-06",
   "0001140361-26-042248": "2026-11-06",
   "0001140361-26-042275": "2026-11-06",
+  "0001140361-26-042445": "2026-11-06",
+  "0001140361-26-042473": "2026-11-06",
+  "0001140361-26-042504": "2026-11-06",
   "0001145197-26-000192": "2026-11-04",
   "0001159036-26-000145": "2026-11-06",
   "0001159152-26-000055": "2026-11-06",
@@ -2348,16 +3533,23 @@
   "0001165002-26-000060": "2026-11-06",
   "0001171520-26-000320": "2026-11-03",
   "0001171843-26-007112": "2026-11-04",
+  "0001171843-26-007225": "2026-11-06",
+  "0001171843-26-007230": "2026-11-06",
+  "0001172052-26-000032": "2026-11-06",
   "0001173514-26-000247": "2026-11-06",
   "0001174922-26-000079": "2026-11-06",
   "0001174947-26-000961": "2026-11-06",
+  "0001174947-26-000964": "2026-11-06",
   "0001175454-26-000059": "2026-11-06",
   "0001178913-26-005036": "2026-11-05",
+  "0001178913-26-005057": "2026-11-06",
   "0001185185-26-005141": "2026-11-04",
   "0001185185-26-005176": "2026-11-04",
   "0001185185-26-005198": "2026-11-05",
   "0001185185-26-005211": "2026-11-06",
   "0001185185-26-005224": "2026-11-06",
+  "0001185185-26-005237": "2026-11-06",
+  "0001185185-26-005245": "2026-11-06",
   "0001193125-26-442624": "2026-11-03",
   "0001193125-26-442634": "2026-11-03",
   "0001193125-26-443625": "2026-11-03",
@@ -2658,6 +3850,52 @@
   "0001193125-26-451224": "2026-11-06",
   "0001193125-26-451259": "2026-11-06",
   "0001193125-26-451264": "2026-11-06",
+  "0001193125-26-451316": "2026-11-06",
+  "0001193125-26-451363": "2026-11-06",
+  "0001193125-26-451376": "2026-11-06",
+  "0001193125-26-451423": "2026-11-06",
+  "0001193125-26-451442": "2026-11-06",
+  "0001193125-26-451451": "2026-11-06",
+  "0001193125-26-451453": "2026-11-06",
+  "0001193125-26-451460": "2026-11-06",
+  "0001193125-26-451516": "2026-11-06",
+  "0001193125-26-451587": "2026-11-06",
+  "0001193125-26-451588": "2026-11-06",
+  "0001193125-26-451666": "2026-11-06",
+  "0001193125-26-451705": "2026-11-06",
+  "0001193125-26-451723": "2026-11-06",
+  "0001193125-26-451749": "2026-11-06",
+  "0001193125-26-451764": "2026-11-06",
+  "0001193125-26-451776": "2026-11-06",
+  "0001193125-26-451777": "2026-11-06",
+  "0001193125-26-451778": "2026-11-06",
+  "0001193125-26-451797": "2026-11-06",
+  "0001193125-26-451798": "2026-11-06",
+  "0001193125-26-451799": "2026-11-06",
+  "0001193125-26-451802": "2026-11-06",
+  "0001193125-26-451806": "2026-11-06",
+  "0001193125-26-451817": "2026-11-06",
+  "0001193125-26-451825": "2026-11-06",
+  "0001193125-26-451840": "2026-11-06",
+  "0001193125-26-451855": "2026-11-06",
+  "0001193125-26-451858": "2026-11-06",
+  "0001193125-26-451859": "2026-11-06",
+  "0001193125-26-451860": "2026-11-06",
+  "0001193125-26-451865": "2026-11-06",
+  "0001193125-26-451866": "2026-11-06",
+  "0001193125-26-451875": "2026-11-06",
+  "0001193125-26-451877": "2026-11-06",
+  "0001193125-26-451881": "2026-11-06",
+  "0001193125-26-451929": "2026-11-06",
+  "0001193125-26-451930": "2026-11-06",
+  "0001193125-26-451955": "2026-11-06",
+  "0001193125-26-451981": "2026-11-06",
+  "0001193125-26-451985": "2026-11-06",
+  "0001193125-26-451995": "2026-11-06",
+  "0001193125-26-452035": "2026-11-06",
+  "0001193125-26-452069": "2026-11-06",
+  "0001193125-26-452122": "2026-11-06",
+  "0001193125-26-452129": "2026-11-06",
   "0001193311-26-000026": "2026-11-06",
   "0001213900-26-115006": "2026-11-03",
   "0001213900-26-115031": "2026-11-03",
@@ -2684,6 +3922,16 @@
   "0001213900-26-116522": "2026-11-06",
   "0001213900-26-116604": "2026-11-06",
   "0001213900-26-116612": "2026-11-06",
+  "0001213900-26-116867": "2026-11-06",
+  "0001213900-26-116875": "2026-11-06",
+  "0001213900-26-116886": "2026-11-06",
+  "0001213900-26-116887": "2026-11-06",
+  "0001213900-26-116890": "2026-11-06",
+  "0001213900-26-116913": "2026-11-06",
+  "0001213900-26-116916": "2026-11-06",
+  "0001213900-26-116918": "2026-11-06",
+  "0001213900-26-116962": "2026-11-06",
+  "0001213900-26-116963": "2026-11-06",
   "0001214659-26-013658": "2026-11-04",
   "0001214659-26-013659": "2026-11-04",
   "0001214659-26-013660": "2026-11-04",
@@ -2712,6 +3960,7 @@
   "0001286139-26-000036": "2026-11-04",
   "0001287032-26-000309": "2026-11-04",
   "0001288847-26-000145": "2026-11-06",
+  "0001295810-26-000007": "2026-11-06",
   "0001295947-26-000057": "2026-11-05",
   "0001296445-26-000017": "2026-11-05",
   "0001297184-26-000053": "2026-11-06",
@@ -2736,6 +3985,8 @@
   "0001331451-26-000213": "2026-11-05",
   "0001331465-26-000206": "2026-11-05",
   "0001331520-26-000124": "2026-11-06",
+  "0001331875-26-000101": "2026-11-06",
+  "0001332349-26-000072": "2026-11-06",
   "0001333493-26-000045": "2026-11-05",
   "0001333986-26-000060": "2026-11-05",
   "0001335258-26-000053": "2026-11-06",
@@ -2744,9 +3995,12 @@
   "0001336920-26-000293": "2026-11-03",
   "0001339970-26-000081": "2026-11-06",
   "0001341766-26-000062": "2026-11-05",
+  "0001345016-26-000075": "2026-11-06",
   "0001345126-26-000071": "2026-11-04",
   "0001352010-26-000052": "2026-11-06",
   "0001356090-26-000040": "2026-11-04",
+  "0001362468-26-000065": "2026-11-06",
+  "0001364250-26-000057": "2026-11-06",
   "0001366868-26-000046": "2026-11-05",
   "0001367644-26-000112": "2026-11-03",
   "0001370946-26-000225": "2026-11-04",
@@ -2766,6 +4020,7 @@
   "0001393883-26-000119": "2026-11-04",
   "0001395942-26-000037": "2026-11-04",
   "0001396440-26-000159": "2026-11-06",
+  "0001398659-26-000019": "2026-11-06",
   "0001398733-26-000074": "2026-11-04",
   "0001401521-26-000045": "2026-11-06",
   "0001402057-26-000114": "2026-11-04",
@@ -2776,6 +4031,7 @@
   "0001408710-26-000041": "2026-11-03",
   "0001409493-26-000068": "2026-11-06",
   "0001411579-26-000075": "2026-11-04",
+  "0001419536-26-000186": "2026-11-06",
   "0001419806-26-000018": "2026-11-04",
   "0001420800-26-000054": "2026-11-05",
   "0001421461-26-000028": "2026-11-04",
@@ -2786,6 +4042,7 @@
   "0001425292-26-000033": "2026-11-03",
   "0001433642-26-000056": "2026-11-04",
   "0001434647-26-000087": "2026-11-04",
+  "0001437071-26-000086": "2026-11-06",
   "0001437402-26-000059": "2026-11-04",
   "0001437749-26-034283": "2026-11-03",
   "0001437749-26-034478": "2026-11-03",
@@ -2848,6 +4105,32 @@
   "0001437749-26-035431": "2026-11-06",
   "0001437749-26-035455": "2026-11-06",
   "0001437749-26-035457": "2026-11-06",
+  "0001437749-26-035462": "2026-11-06",
+  "0001437749-26-035472": "2026-11-06",
+  "0001437749-26-035477": "2026-11-06",
+  "0001437749-26-035486": "2026-11-06",
+  "0001437749-26-035488": "2026-11-06",
+  "0001437749-26-035498": "2026-11-06",
+  "0001437749-26-035531": "2026-11-06",
+  "0001437749-26-035533": "2026-11-06",
+  "0001437749-26-035534": "2026-11-06",
+  "0001437749-26-035537": "2026-11-06",
+  "0001437749-26-035539": "2026-11-06",
+  "0001437749-26-035540": "2026-11-06",
+  "0001437749-26-035541": "2026-11-06",
+  "0001437749-26-035543": "2026-11-06",
+  "0001437749-26-035558": "2026-11-06",
+  "0001437749-26-035559": "2026-11-06",
+  "0001437749-26-035560": "2026-11-06",
+  "0001437749-26-035562": "2026-11-06",
+  "0001437749-26-035564": "2026-11-06",
+  "0001437749-26-035565": "2026-11-06",
+  "0001437749-26-035567": "2026-11-06",
+  "0001437749-26-035571": "2026-11-06",
+  "0001437749-26-035585": "2026-11-06",
+  "0001437749-26-035599": "2026-11-06",
+  "0001437749-26-035607": "2026-11-06",
+  "0001437749-26-035614": "2026-11-06",
   "0001437958-26-000082": "2026-11-05",
   "0001438133-26-000144": "2026-11-06",
   "0001438533-26-000077": "2026-11-03",
@@ -2855,6 +4138,7 @@
   "0001441683-26-000061": "2026-11-05",
   "0001442236-26-000008": "2026-11-06",
   "0001445305-26-000085": "2026-11-06",
+  "0001448893-26-000032": "2026-11-06",
   "0001451505-26-000085": "2026-11-04",
   "0001451809-26-000077": "2026-11-05",
   "0001453687-26-000111": "2026-11-05",
@@ -2864,6 +4148,7 @@
   "0001464790-26-000059": "2026-11-06",
   "0001465128-26-000031": "2026-11-06",
   "0001466593-26-000081": "2026-11-04",
+  "0001467623-26-000061": "2026-11-06",
   "0001471265-26-000049": "2026-11-06",
   "0001474903-26-000088": "2026-11-04",
   "0001476150-26-000048": "2026-11-04",
@@ -2874,9 +4159,12 @@
   "0001477932-26-006633": "2026-11-04",
   "0001477932-26-006666": "2026-11-04",
   "0001477932-26-006739": "2026-11-06",
+  "0001477932-26-006758": "2026-11-06",
+  "0001482512-26-000085": "2026-11-06",
   "0001484778-26-000033": "2026-11-04",
   "0001486159-26-000047": "2026-11-05",
   "0001486957-26-000051": "2026-11-03",
+  "0001488813-26-000105": "2026-11-06",
   "0001490978-26-000076": "2026-11-04",
   "0001492298-26-000033": "2026-11-03",
   "0001493152-26-049582": "2026-11-03",
@@ -2909,6 +4197,23 @@
   "0001493152-26-050265": "2026-11-06",
   "0001493152-26-050354": "2026-11-06",
   "0001493152-26-050372": "2026-11-06",
+  "0001493152-26-050421": "2026-11-06",
+  "0001493152-26-050425": "2026-11-06",
+  "0001493152-26-050430": "2026-11-06",
+  "0001493152-26-050444": "2026-11-06",
+  "0001493152-26-050460": "2026-11-06",
+  "0001493152-26-050461": "2026-11-06",
+  "0001493152-26-050462": "2026-11-06",
+  "0001493152-26-050470": "2026-11-06",
+  "0001493152-26-050472": "2026-11-06",
+  "0001493152-26-050474": "2026-11-06",
+  "0001493152-26-050483": "2026-11-06",
+  "0001493152-26-050489": "2026-11-06",
+  "0001493152-26-050501": "2026-11-06",
+  "0001493152-26-050524": "2026-11-06",
+  "0001493152-26-050535": "2026-11-06",
+  "0001493152-26-050540": "2026-11-06",
+  "0001493152-26-050545": "2026-11-06",
   "0001496099-26-000034": "2026-11-03",
   "0001497645-26-000077": "2026-11-04",
   "0001501697-26-000089": "2026-11-04",
@@ -2922,22 +4227,30 @@
   "0001511737-26-000074": "2026-11-06",
   "0001515156-26-000136": "2026-11-04",
   "0001516513-26-000050": "2026-11-06",
+  "0001516912-26-000067": "2026-11-06",
   "0001517022-26-000084": "2026-11-05",
   "0001517375-26-000070": "2026-11-04",
   "0001517413-26-000345": "2026-11-04",
+  "0001518715-26-000073": "2026-11-06",
+  "0001519449-26-000063": "2026-11-06",
+  "0001520006-26-000058": "2026-11-06",
+  "0001520138-26-000461": "2026-11-06",
   "0001521332-26-000075": "2026-11-04",
   "0001522540-26-000077": "2026-11-04",
   "0001522727-26-000110": "2026-11-04",
   "0001524358-26-000042": "2026-11-04",
   "0001525221-26-000106": "2026-11-04",
+  "0001527166-26-000053": "2026-11-06",
   "0001527469-26-000085": "2026-11-06",
   "0001527541-26-000418": "2026-11-06",
+  "0001528985-26-000009": "2026-11-06",
   "0001530804-26-000018": "2026-11-05",
   "0001534120-26-000057": "2026-11-05",
   "0001534254-26-000013": "2026-11-05",
   "0001534969-26-000040": "2026-11-04",
   "0001535778-26-000109": "2026-11-06",
   "0001535929-26-000188": "2026-11-04",
+  "0001538263-26-000123": "2026-11-06",
   "0001538716-26-000119": "2026-11-04",
   "0001539497-26-002821": "2026-11-03",
   "0001539838-26-000183": "2026-11-04",
@@ -2982,16 +4295,20 @@
   "0001576427-26-000107": "2026-11-04",
   "0001579091-26-000055": "2026-11-06",
   "0001579684-26-000058": "2026-11-05",
+  "0001579877-26-000051": "2026-11-06",
   "0001580345-26-000038": "2026-11-04",
   "0001580670-26-000088": "2026-11-04",
   "0001580905-26-000048": "2026-11-06",
   "0001585364-26-000162": "2026-11-04",
+  "0001585389-26-000020": "2026-11-06",
   "0001587732-26-000052": "2026-11-04",
   "0001588489-26-000007": "2026-11-06",
   "0001588978-26-000039": "2026-11-04",
   "0001590750-26-000022": "2026-11-04",
   "0001590976-26-000078": "2026-11-05",
   "0001591698-26-000153": "2026-11-06",
+  "0001591956-26-000030": "2026-11-06",
+  "0001592386-26-000034": "2026-11-06",
   "0001593275-26-000128": "2026-11-04",
   "0001594805-26-000068": "2026-11-03",
   "0001595974-26-000041": "2026-11-04",
@@ -3005,8 +4322,10 @@
   "0001601548-26-000049": "2026-11-03",
   "0001601830-26-000145": "2026-11-03",
   "0001603145-26-000039": "2026-11-04",
+  "0001603978-26-000113": "2026-11-06",
   "0001604028-26-000046": "2026-11-06",
   "0001604665-26-000040": "2026-11-04",
+  "0001606366-26-000063": "2026-11-06",
   "0001606757-26-000065": "2026-11-06",
   "0001609253-26-000147": "2026-11-04",
   "0001609550-26-000053": "2026-11-03",
@@ -3219,6 +4538,44 @@
   "0001628280-26-071416": "2026-11-06",
   "0001628280-26-071470": "2026-11-06",
   "0001628280-26-071486": "2026-11-06",
+  "0001628280-26-071504": "2026-11-06",
+  "0001628280-26-071505": "2026-11-06",
+  "0001628280-26-071515": "2026-11-06",
+  "0001628280-26-071518": "2026-11-06",
+  "0001628280-26-071520": "2026-11-06",
+  "0001628280-26-071541": "2026-11-06",
+  "0001628280-26-071543": "2026-11-06",
+  "0001628280-26-071545": "2026-11-06",
+  "0001628280-26-071569": "2026-11-06",
+  "0001628280-26-071589": "2026-11-06",
+  "0001628280-26-071604": "2026-11-06",
+  "0001628280-26-071617": "2026-11-06",
+  "0001628280-26-071628": "2026-11-06",
+  "0001628280-26-071654": "2026-11-06",
+  "0001628280-26-071659": "2026-11-06",
+  "0001628280-26-071670": "2026-11-06",
+  "0001628280-26-071671": "2026-11-06",
+  "0001628280-26-071672": "2026-11-06",
+  "0001628280-26-071678": "2026-11-06",
+  "0001628280-26-071681": "2026-11-06",
+  "0001628280-26-071683": "2026-11-06",
+  "0001628280-26-071686": "2026-11-06",
+  "0001628280-26-071687": "2026-11-06",
+  "0001628280-26-071703": "2026-11-06",
+  "0001628280-26-071710": "2026-11-06",
+  "0001628280-26-071717": "2026-11-06",
+  "0001628280-26-071719": "2026-11-06",
+  "0001628280-26-071728": "2026-11-06",
+  "0001628280-26-071730": "2026-11-06",
+  "0001628280-26-071736": "2026-11-06",
+  "0001628280-26-071748": "2026-11-06",
+  "0001628280-26-071762": "2026-11-06",
+  "0001628280-26-071767": "2026-11-06",
+  "0001628280-26-071768": "2026-11-06",
+  "0001628280-26-071778": "2026-11-06",
+  "0001628280-26-071780": "2026-11-06",
+  "0001628280-26-071782": "2026-11-06",
+  "0001628280-26-071791": "2026-11-06",
   "0001628369-26-000136": "2026-11-04",
   "0001628908-26-000100": "2026-11-05",
   "0001631569-26-000046": "2026-11-04",
@@ -3228,6 +4585,7 @@
   "0001636422-26-000125": "2026-11-06",
   "0001637207-26-000051": "2026-11-06",
   "0001637459-26-000081": "2026-11-04",
+  "0001637880-26-000052": "2026-11-06",
   "0001639691-26-000115": "2026-11-04",
   "0001639825-26-000048": "2026-11-06",
   "0001640334-26-001752": "2026-11-05",
@@ -3238,6 +4596,7 @@
   "0001649094-26-000054": "2026-11-04",
   "0001649749-26-000068": "2026-11-03",
   "0001650164-26-000216": "2026-11-04",
+  "0001650372-26-000054": "2026-11-06",
   "0001651562-26-000072": "2026-11-06",
   "0001652535-26-000078": "2026-11-03",
   "0001653477-26-000064": "2026-11-06",
@@ -3248,12 +4607,15 @@
   "0001654954-26-009546": "2026-11-05",
   "0001654954-26-009564": "2026-11-06",
   "0001654954-26-009567": "2026-11-06",
+  "0001654954-26-009601": "2026-11-06",
+  "0001655887-26-000025": "2026-11-06",
   "0001655888-26-000069": "2026-11-04",
   "0001656472-26-000075": "2026-11-05",
   "0001657853-26-000086": "2026-11-05",
   "0001658566-26-000124": "2026-11-06",
   "0001660280-26-000054": "2026-11-04",
   "0001661306-26-000098": "2026-11-06",
+  "0001662972-26-000167": "2026-11-06",
   "0001662991-26-000171": "2026-11-05",
   "0001664710-26-000066": "2026-11-06",
   "0001665918-26-000056": "2026-11-06",
@@ -3263,16 +4625,22 @@
   "0001672013-26-000181": "2026-11-04",
   "0001673985-26-000061": "2026-11-04",
   "0001674335-26-000141": "2026-11-04",
+  "0001674356-26-000029": "2026-11-06",
   "0001675644-26-000091": "2026-11-05",
   "0001677576-26-000006": "2026-11-04",
   "0001677703-26-000154": "2026-11-06",
+  "0001682852-26-000197": "2026-11-06",
   "0001683168-26-008254": "2026-11-03",
   "0001683168-26-008258": "2026-11-03",
   "0001683168-26-008309": "2026-11-04",
   "0001683168-26-008349": "2026-11-06",
   "0001683168-26-008355": "2026-11-06",
+  "0001683168-26-008379": "2026-11-06",
+  "0001683168-26-008381": "2026-11-06",
+  "0001683168-26-008383": "2026-11-06",
   "0001684682-26-000024": "2026-11-06",
   "0001685040-26-000037": "2026-11-06",
+  "0001688757-26-000062": "2026-11-06",
   "0001689375-26-000064": "2026-11-05",
   "0001690012-26-000011": "2026-11-04",
   "0001690585-26-000040": "2026-11-04",
@@ -3300,6 +4668,7 @@
   "0001720265-26-000013": "2026-11-06",
   "0001720420-26-000037": "2026-11-06",
   "0001720580-26-000066": "2026-11-06",
+  "0001722010-26-000025": "2026-11-06",
   "0001724521-26-000058": "2026-11-04",
   "0001725210-26-000018": "2026-11-06",
   "0001727263-26-000022": "2026-11-06",
@@ -3312,8 +4681,10 @@
   "0001736946-26-000072": "2026-11-06",
   "0001737706-26-000033": "2026-11-04",
   "0001737924-26-000089": "2026-11-03",
+  "0001738827-26-000069": "2026-11-06",
   "0001739104-26-000057": "2026-11-06",
   "0001739940-26-000071": "2026-11-05",
+  "0001742313-26-000066": "2026-11-06",
   "0001747777-26-000036": "2026-11-04",
   "0001748790-26-000031": "2026-11-06",
   "0001748824-26-000005": "2026-11-05",
@@ -3322,6 +4693,7 @@
   "0001753926-26-002061": "2026-11-04",
   "0001754195-26-000089": "2026-11-05",
   "0001757073-26-000087": "2026-11-04",
+  "0001758021-26-000037": "2026-11-06",
   "0001759138-26-000047": "2026-11-05",
   "0001759425-26-000062": "2026-11-04",
   "0001759655-26-000085": "2026-11-05",
@@ -3333,6 +4705,7 @@
   "0001767258-26-000101": "2026-11-06",
   "0001770450-26-000051": "2026-11-06",
   "0001773383-26-000070": "2026-11-03",
+  "0001783398-26-000140": "2026-11-06",
   "0001787306-26-000057": "2026-11-04",
   "0001787400-26-000021": "2026-11-06",
   "0001788882-26-000082": "2026-11-04",
@@ -3343,6 +4716,7 @@
   "0001794669-26-000051": "2026-11-06",
   "0001794783-26-000076": "2026-11-04",
   "0001795586-26-000056": "2026-11-06",
+  "0001795815-26-000023": "2026-11-06",
   "0001799191-26-000023": "2026-11-06",
   "0001801169-26-000028": "2026-11-06",
   "0001801170-26-000296": "2026-11-06",
@@ -3365,6 +4739,7 @@
   "0001819810-26-000142": "2026-11-06",
   "0001819848-26-000533": "2026-11-05",
   "0001819989-26-000050": "2026-11-03",
+  "0001820144-26-000042": "2026-11-06",
   "0001821586-26-000015": "2026-11-04",
   "0001822479-26-000058": "2026-11-04",
   "0001822492-26-000161": "2026-11-03",
@@ -3380,6 +4755,7 @@
   "0001828962-26-000058": "2026-11-04",
   "0001829126-26-012001": "2026-11-05",
   "0001829126-26-012042": "2026-11-06",
+  "0001829126-26-012087": "2026-11-06",
   "0001829576-26-000097": "2026-11-05",
   "0001829864-26-000156": "2026-11-06",
   "0001830033-26-000038": "2026-11-04",
@@ -3432,16 +4808,23 @@
   "0001889539-26-000159": "2026-11-04",
   "0001891101-26-000049": "2026-11-03",
   "0001898795-26-000116": "2026-11-04",
+  "0001899883-26-000043": "2026-11-06",
   "0001901440-26-000031": "2026-11-04",
   "0001906324-26-000042": "2026-11-04",
+  "0001921963-26-000082": "2026-11-06",
   "0001922446-26-000108": "2026-11-04",
   "0001928446-26-000067": "2026-11-06",
   "0001929017-26-000018": "2026-11-04",
+  "0001929980-26-000585": "2026-11-06",
   "0001933414-26-000144": "2026-11-04",
+  "0001934850-26-000110": "2026-11-06",
+  "0001941365-26-000087": "2026-11-06",
+  "0001944366-26-000095": "2026-11-06",
   "0001944558-26-000056": "2026-11-03",
   "0001950572-26-000005": "2026-11-06",
   "0001951070-26-000054": "2026-11-05",
   "0001952976-26-000064": "2026-11-04",
+  "0001953366-26-000025": "2026-11-06",
   "0001957132-26-000056": "2026-11-04",
   "0001964333-26-000107": "2026-11-06",
   "0001964738-26-000056": "2026-11-06",
@@ -3452,9 +4835,17 @@
   "0001993004-26-000057": "2026-11-05",
   "0001999001-26-000107": "2026-11-05",
   "0001999371-26-024638": "2026-11-06",
+  "0001999371-26-024816": "2026-11-06",
+  "0001999371-26-024819": "2026-11-06",
+  "0001999371-26-024821": "2026-11-06",
+  "0001999371-26-024823": "2026-11-06",
+  "0001999371-26-024826": "2026-11-06",
+  "0001999784-26-000083": "2026-11-06",
   "0002001184-26-000040": "2026-11-04",
+  "0002013745-26-000036": "2026-11-06",
   "0002014596-26-000077": "2026-11-06",
   "0002015034-26-000010": "2026-11-06",
+  "0002015845-26-000061": "2026-11-06",
   "0002019410-26-000069": "2026-11-04",
   "0002020455-26-000018": "2026-11-06",
   "0002025410-26-000022": "2026-11-06",
@@ -3469,6 +4860,7 @@
   "0002058873-26-000043": "2026-11-04",
   "0002064953-26-000100": "2026-11-04",
   "0002067876-26-000052": "2026-11-04",
+  "0002069692-26-000069": "2026-11-06",
   "0002070849-26-000082": "2026-11-04",
   "0002074176-26-000066": "2026-11-04",
   "0002077096-26-000304": "2026-11-04",
@@ -3525,6 +4917,11 @@
    "last_checked": "2026-11-06",
    "name": "Alector, Inc."
   },
+  "ALK": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "ALASKA AIR GROUP, INC."
+  },
   "ALMR": {
    "flagged": "2026-11-04",
    "last_checked": "2026-11-06",
@@ -3559,6 +4956,11 @@
    "flagged": "2026-11-05",
    "last_checked": "2026-11-06",
    "name": "AppLovin Corp"
+  },
+  "AVT": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "AVNET INC"
   },
   "AXSM": {
    "flagged": "2026-11-03",
@@ -3735,6 +5137,11 @@
    "last_checked": "2026-11-06",
    "name": "Flowco Holdings Inc."
   },
+  "FLR": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "FLUOR CORP"
+  },
   "FN": {
    "flagged": "2026-11-03",
    "last_checked": "2026-11-06",
@@ -3764,6 +5171,11 @@
    "flagged": "2026-11-05",
    "last_checked": "2026-11-06",
    "name": "GENCO SHIPPING & TRADING LTD"
+  },
+  "GRNT": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Granite Ridge Resources, Inc."
   },
   "HG": {
    "flagged": "2026-11-05",
@@ -3825,6 +5237,11 @@
    "last_checked": "2026-11-06",
    "name": "KENNAMETAL INC"
   },
+  "KRMN": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Karman Holdings Inc."
+  },
   "KRYS": {
    "flagged": "2026-11-03",
    "last_checked": "2026-11-06",
@@ -3859,6 +5276,11 @@
    "flagged": "2026-11-04",
    "last_checked": "2026-11-06",
    "name": "Lumentum Holdings Inc."
+  },
+  "LLYVA": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Liberty Live Holdings, Inc."
   },
   "LNC": {
    "flagged": "2026-11-06",
@@ -3970,6 +5392,11 @@
    "last_checked": "2026-11-06",
    "name": "PACKAGING CORP OF AMERICA"
   },
+  "PLMR": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Palomar Holdings, Inc."
+  },
   "PLOW": {
    "flagged": "2026-11-04",
    "last_checked": "2026-11-06",
@@ -4014,6 +5441,11 @@
    "flagged": "2026-11-05",
    "last_checked": "2026-11-06",
    "name": "Sezzle Inc."
+  },
+  "SMCI": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Super Micro Computer, Inc."
   },
   "SN": {
    "flagged": "2026-11-04",
@@ -4064,6 +5496,11 @@
    "flagged": "2026-11-05",
    "last_checked": "2026-11-06",
    "name": "Unity Software Inc."
+  },
+  "UI": {
+   "flagged": "2026-11-06",
+   "last_checked": "2026-11-06",
+   "name": "Ubiquiti Inc."
   },
   "USAC": {
    "flagged": "2026-11-05",
