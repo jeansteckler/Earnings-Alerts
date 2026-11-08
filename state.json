@@ -2,7 +2,7 @@
  "queue": {
   "0000052827-26-000106": {
    "accession": "0000052827-26-000106",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 52827,
    "form": "10-Q",
    "name": "RAYONIER INC",
@@ -10,7 +10,7 @@
   },
   "0000910073-26-000084": {
    "accession": "0000910073-26-000084",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 910073,
    "form": "10-Q",
    "name": "FLAGSTAR BANK, NATIONAL ASSOCIATION",
@@ -18,55 +18,23 @@
   },
   "0001002910-26-000032": {
    "accession": "0001002910-26-000032",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 18654,
    "form": "10-Q",
    "name": "Ameren Illinois Co",
    "updated": "2026-11-06T14:26:31-05:00"
   },
-  "0001037540-26-000043": {
-   "accession": "0001037540-26-000043",
-   "attempts": 5,
-   "cik": 1037540,
-   "form": "10-Q",
-   "name": "BXP, Inc.",
-   "updated": "2026-11-06T10:47:22-05:00"
-  },
   "0001069157-26-000051": {
    "accession": "0001069157-26-000051",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1069157,
    "form": "10-Q",
    "name": "EAST WEST BANCORP INC",
    "updated": "2026-11-06T16:04:41-05:00"
   },
-  "0001074828-26-000107": {
-   "accession": "0001074828-26-000107",
-   "attempts": 5,
-   "cik": 1074828,
-   "form": "10-Q",
-   "name": "USBC, Inc.",
-   "updated": "2026-11-06T09:16:37-05:00"
-  },
-  "0001104659-26-123615": {
-   "accession": "0001104659-26-123615",
-   "attempts": 5,
-   "cik": 1710482,
-   "form": "10-Q",
-   "name": "John Marshall Bancorp, Inc.",
-   "updated": "2026-11-06T08:45:55-05:00"
-  },
-  "0001104659-26-123710": {
-   "accession": "0001104659-26-123710",
-   "attempts": 5,
-   "cik": 906465,
-   "form": "10-Q",
-   "name": "QCR HOLDINGS INC",
-   "updated": "2026-11-06T11:25:00-05:00"
-  },
   "0001104659-26-123855": {
    "accession": "0001104659-26-123855",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 812796,
    "form": "10-Q",
    "name": "SOLIGENIX, INC.",
@@ -74,31 +42,15 @@
   },
   "0001140361-26-042473": {
    "accession": "0001140361-26-042473",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 790359,
    "form": "10-Q",
    "name": "NBT BANCORP INC",
    "updated": "2026-11-06T16:11:17-05:00"
   },
-  "0001193125-26-450995": {
-   "accession": "0001193125-26-450995",
-   "attempts": 5,
-   "cik": 1070680,
-   "form": "10-Q",
-   "name": "CF BANKSHARES INC.",
-   "updated": "2026-11-06T10:32:54-05:00"
-  },
-  "0001193125-26-451423": {
-   "accession": "0001193125-26-451423",
-   "attempts": 5,
-   "cik": 910606,
-   "form": "10-Q",
-   "name": "REGENCY CENTERS CORP",
-   "updated": "2026-11-06T13:39:59-05:00"
-  },
   "0001193125-26-451797": {
    "accession": "0001193125-26-451797",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1598646,
    "form": "10-Q",
    "name": "Minerva Neurosciences, Inc.",
@@ -106,23 +58,15 @@
   },
   "0001193125-26-451995": {
    "accession": "0001193125-26-451995",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1287865,
    "form": "10-Q",
    "name": "MEDICAL PROPERTIES TRUST INC",
    "updated": "2026-11-06T16:57:38-05:00"
   },
-  "0001213900-26-116612": {
-   "accession": "0001213900-26-116612",
-   "attempts": 5,
-   "cik": 1359931,
-   "form": "10-Q",
-   "name": "Protara Therapeutics, Inc.",
-   "updated": "2026-11-06T08:10:41-05:00"
-  },
   "0001437749-26-035534": {
    "accession": "0001437749-26-035534",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1278680,
    "form": "10-Q",
    "name": "ISHARES GOLD TRUST",
@@ -130,7 +74,7 @@
   },
   "0001437749-26-035541": {
    "accession": "0001437749-26-035541",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1330568,
    "form": "10-Q",
    "name": "iShares Silver Trust",
@@ -138,23 +82,15 @@
   },
   "0001437749-26-035543": {
    "accession": "0001437749-26-035543",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1332174,
    "form": "10-Q",
    "name": "iShares S&P GSCI Commodity-Indexed Trust",
    "updated": "2026-11-06T15:46:10-05:00"
   },
-  "0001477932-26-006739": {
-   "accession": "0001477932-26-006739",
-   "attempts": 5,
-   "cik": 1603345,
-   "form": "10-Q",
-   "name": "Agentix Corp.",
-   "updated": "2026-11-06T10:44:48-05:00"
-  },
   "0001482512-26-000085": {
    "accession": "0001482512-26-000085",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1482512,
    "form": "10-Q",
    "name": "Hudson Pacific Properties, Inc.",
@@ -162,23 +98,15 @@
   },
   "0001488813-26-000105": {
    "accession": "0001488813-26-000105",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1488813,
    "form": "10-Q",
    "name": "Customers Bancorp, Inc.",
    "updated": "2026-11-06T16:34:12-05:00"
   },
-  "0001493152-26-050372": {
-   "accession": "0001493152-26-050372",
-   "attempts": 5,
-   "cik": 847942,
-   "form": "10-Q",
-   "name": "STRATEGIC ACQUISITIONS INC /NV/",
-   "updated": "2026-11-06T10:32:01-05:00"
-  },
   "0001493152-26-050425": {
    "accession": "0001493152-26-050425",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1022899,
    "form": "10-Q",
    "name": "Protagenic Therapeutics, Inc.\\new",
@@ -186,7 +114,7 @@
   },
   "0001493152-26-050501": {
    "accession": "0001493152-26-050501",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 748592,
    "form": "10-Q",
    "name": "Ernexa Therapeutics Inc.",
@@ -194,7 +122,7 @@
   },
   "0001520138-26-000461": {
    "accession": "0001520138-26-000461",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1580149,
    "form": "10-Q",
    "name": "BIOVIE INC.",
@@ -202,7 +130,7 @@
   },
   "0001538263-26-000123": {
    "accession": "0001538263-26-000123",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1538263,
    "form": "10-Q",
    "name": "HomeTrust Bancshares, Inc.",
@@ -210,35 +138,19 @@
   },
   "0001603978-26-000113": {
    "accession": "0001603978-26-000113",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1603978,
    "form": "10-Q",
    "name": "AQUABOUNTY TECHNOLOGIES INC",
    "updated": "2026-11-06T16:04:31-05:00"
   },
-  "0001628280-26-071343": {
-   "accession": "0001628280-26-071343",
-   "attempts": 5,
-   "cik": 850429,
-   "form": "10-Q",
-   "name": "TREDEGAR CORP",
-   "updated": "2026-11-06T08:18:41-05:00"
-  },
   "0001628280-26-071589": {
    "accession": "0001628280-26-071589",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1587987,
    "form": "10-Q",
    "name": "NewtekOne, Inc.",
    "updated": "2026-11-06T15:20:50-05:00"
-  },
-  "0001765048-26-000026": {
-   "accession": "0001765048-26-000026",
-   "attempts": 5,
-   "cik": 1765048,
-   "form": "10-Q",
-   "name": "GUOCHUN INTERNATIONAL INC.",
-   "updated": "2026-11-06T12:25:15-05:00"
   }
  },
  "seen": {
