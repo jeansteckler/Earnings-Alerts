@@ -2,7 +2,7 @@
  "queue": {
   "0001104659-26-125167": {
    "accession": "0001104659-26-125167",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1819411,
    "form": "10-Q",
    "name": "Gain Therapeutics, Inc.",
@@ -10,7 +10,7 @@
   },
   "0001104659-26-125220": {
    "accession": "0001104659-26-125220",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1661059,
    "form": "10-Q",
    "name": "NextCure, Inc.",
@@ -18,39 +18,15 @@
   },
   "0001104659-26-125355": {
    "accession": "0001104659-26-125355",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1133869,
    "form": "10-Q",
    "name": "CAPRICOR THERAPEUTICS, INC.",
    "updated": "2026-11-10T17:25:43-05:00"
   },
-  "0001193125-26-453712": {
-   "accession": "0001193125-26-453712",
-   "attempts": 5,
-   "cik": 728387,
-   "form": "10-Q",
-   "name": "Perspective Therapeutics, Inc.",
-   "updated": "2026-11-09T16:34:44-05:00"
-  },
-  "0001193125-26-453735": {
-   "accession": "0001193125-26-453735",
-   "attempts": 5,
-   "cik": 906107,
-   "form": "10-Q",
-   "name": "VIVMARK RESIDENTIAL",
-   "updated": "2026-11-09T16:42:28-05:00"
-  },
-  "0001193125-26-453807": {
-   "accession": "0001193125-26-453807",
-   "attempts": 5,
-   "cik": 1593899,
-   "form": "10-Q",
-   "name": "Atea Pharmaceuticals, Inc.",
-   "updated": "2026-11-09T17:01:58-05:00"
-  },
   "0001193125-26-454394": {
    "accession": "0001193125-26-454394",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1867949,
    "form": "10-Q",
    "name": "Chicago Atlantic Real Estate Finance, Inc.",
@@ -58,7 +34,7 @@
   },
   "0001193125-26-454417": {
    "accession": "0001193125-26-454417",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1789972,
    "form": "10-Q",
    "name": "Cullinan Therapeutics, Inc.",
@@ -66,7 +42,7 @@
   },
   "0001193125-26-454468": {
    "accession": "0001193125-26-454468",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1488039,
    "form": "10-Q",
    "name": "ATOSSA THERAPEUTICS, INC.",
@@ -74,7 +50,7 @@
   },
   "0001193125-26-455473": {
    "accession": "0001193125-26-455473",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1580864,
    "form": "10-Q",
    "name": "Vroom, Inc.",
@@ -82,7 +58,7 @@
   },
   "0001193125-26-455592": {
    "accession": "0001193125-26-455592",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1840439,
    "form": "10-Q",
    "name": "Biomea Fusion, Inc.",
@@ -90,7 +66,7 @@
   },
   "0001193125-26-455614": {
    "accession": "0001193125-26-455614",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1595097,
    "form": "10-Q",
    "name": "Corbus Pharmaceuticals Holdings, Inc.",
@@ -98,7 +74,7 @@
   },
   "0001193125-26-455625": {
    "accession": "0001193125-26-455625",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1750149,
    "form": "10-Q",
    "name": "Inhibikase Therapeutics, Inc.",
@@ -106,23 +82,15 @@
   },
   "0001213900-26-118078": {
    "accession": "0001213900-26-118078",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1173313,
    "form": "10-Q",
    "name": "ABVC BIOPHARMA, INC.",
    "updated": "2026-11-10T16:50:23-05:00"
   },
-  "0001437749-26-035931": {
-   "accession": "0001437749-26-035931",
-   "attempts": 5,
-   "cik": 1530249,
-   "form": "10-Q",
-   "name": "FS Bancorp, Inc.",
-   "updated": "2026-11-09T16:57:10-05:00"
-  },
   "0001437749-26-036003": {
    "accession": "0001437749-26-036003",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1107280,
    "form": "10-Q",
    "name": "OCULUS INC.",
@@ -130,7 +98,7 @@
   },
   "0001437749-26-036102": {
    "accession": "0001437749-26-036102",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1006830,
    "form": "10-Q",
    "name": "CONSUMERS BANCORP INC /OH/",
@@ -138,7 +106,7 @@
   },
   "0001437749-26-036190": {
    "accession": "0001437749-26-036190",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 1131312,
    "form": "10-Q",
    "name": "ZION OIL & GAS INC",
@@ -146,7 +114,7 @@
   },
   "0001493152-26-050894": {
    "accession": "0001493152-26-050894",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1763660,
    "form": "10-Q",
    "name": "AleeanPeace Group Holdings Ltd",
@@ -154,7 +122,7 @@
   },
   "0001493152-26-050921": {
    "accession": "0001493152-26-050921",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1465470,
    "form": "10-Q",
    "name": "NaturalShrimp Inc",
@@ -162,47 +130,23 @@
   },
   "0001493152-26-050989": {
    "accession": "0001493152-26-050989",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 814926,
    "form": "10-Q",
    "name": "CAPSTONE COMPANIES, INC.",
    "updated": "2026-11-10T16:30:53-05:00"
   },
-  "0001628280-26-072258": {
-   "accession": "0001628280-26-072258",
-   "attempts": 5,
-   "cik": 1820302,
-   "form": "10-Q",
-   "name": "Bakkt, Inc.",
-   "updated": "2026-11-09T16:33:28-05:00"
-  },
   "0001628280-26-072805": {
    "accession": "0001628280-26-072805",
-   "attempts": 2,
+   "attempts": 3,
    "cik": 2051820,
    "form": "10-Q",
    "name": "Mount Logan Capital Inc.",
    "updated": "2026-11-10T16:44:31-05:00"
   },
-  "0001689548-26-000089": {
-   "accession": "0001689548-26-000089",
-   "attempts": 5,
-   "cik": 1689548,
-   "form": "10-Q",
-   "name": "Praxis Precision Medicines, Inc.",
-   "updated": "2026-11-09T16:31:59-05:00"
-  },
-  "0001791942-26-000011": {
-   "accession": "0001791942-26-000011",
-   "attempts": 5,
-   "cik": 1791942,
-   "form": "10-Q",
-   "name": "JBS N.V.",
-   "updated": "2026-11-09T16:32:21-05:00"
-  },
   "0001826466-26-000065": {
    "accession": "0001826466-26-000065",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1145604,
    "form": "10-Q",
    "name": "NIKA PHARMACEUTICALS, INC",
