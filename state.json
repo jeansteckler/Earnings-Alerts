@@ -1,64 +1,24 @@
 {
  "queue": {
-  "0000811830-26-000053": {
-   "accession": "0000811830-26-000053",
-   "attempts": 5,
-   "cik": 811830,
-   "form": "10-Q",
-   "name": "Santander Holdings USA, Inc.",
-   "updated": "2026-11-13T15:56:19-05:00"
-  },
-  "0001079973-26-001490": {
-   "accession": "0001079973-26-001490",
-   "attempts": 5,
-   "cik": 875729,
-   "form": "10-Q",
-   "name": "BION ENVIRONMENTAL TECHNOLOGIES INC",
-   "updated": "2026-11-13T16:10:47-05:00"
-  },
   "0001104659-26-127109": {
    "accession": "0001104659-26-127109",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1011509,
    "form": "10-Q",
    "name": "Golden Minerals Co",
    "updated": "2026-11-13T16:31:36-05:00"
   },
-  "0001193125-26-460591": {
-   "accession": "0001193125-26-460591",
-   "attempts": 5,
-   "cik": 2013639,
-   "form": "10-Q",
-   "name": "FB Bancorp, Inc. /MD/",
-   "updated": "2026-11-13T16:05:16-05:00"
-  },
   "0001193125-26-460705": {
    "accession": "0001193125-26-460705",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1629210,
    "form": "10-Q",
    "name": "Paramount Gold Nevada Corp.",
    "updated": "2026-11-13T16:19:29-05:00"
   },
-  "0001213900-26-119647": {
-   "accession": "0001213900-26-119647",
-   "attempts": 5,
-   "cik": 1859807,
-   "form": "10-Q",
-   "name": "Profusa, Inc.",
-   "updated": "2026-11-13T15:55:45-05:00"
-  },
-  "0001213900-26-119687": {
-   "accession": "0001213900-26-119687",
-   "attempts": 5,
-   "cik": 1397795,
-   "form": "10-Q",
-   "name": "MEDO Technologies, Inc.",
-   "updated": "2026-11-13T16:06:04-05:00"
-  },
   "0001213900-26-119886": {
    "accession": "0001213900-26-119886",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1841330,
    "form": "10-Q",
    "name": "Pasithea Therapeutics Corp.",
@@ -66,7 +26,7 @@
   },
   "0001213900-26-119910": {
    "accession": "0001213900-26-119910",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1544227,
    "form": "10-Q",
    "name": "Tempest Therapeutics, Inc.",
@@ -74,23 +34,15 @@
   },
   "0001437749-26-036882": {
    "accession": "0001437749-26-036882",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1595248,
    "form": "10-Q",
    "name": "Genprex, Inc.",
    "updated": "2026-11-13T16:17:15-05:00"
   },
-  "0001493152-26-051723": {
-   "accession": "0001493152-26-051723",
-   "attempts": 5,
-   "cik": 1463208,
-   "form": "10-Q",
-   "name": "Transportation & Logistics Systems, Inc.",
-   "updated": "2026-11-13T16:10:21-05:00"
-  },
   "0001493152-26-051729": {
    "accession": "0001493152-26-051729",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 890821,
    "form": "10-Q",
    "name": "Enveric Biosciences, Inc.",
@@ -98,7 +50,7 @@
   },
   "0001493152-26-051757": {
    "accession": "0001493152-26-051757",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1086745,
    "form": "10-Q",
    "name": "Fabric.AI, Inc.",
@@ -106,7 +58,7 @@
   },
   "0001493152-26-051827": {
    "accession": "0001493152-26-051827",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1533743,
    "form": "10-Q",
    "name": "Processa Pharmaceuticals, Inc.",
@@ -114,7 +66,7 @@
   },
   "0001628280-26-073900": {
    "accession": "0001628280-26-073900",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1595527,
    "form": "10-Q",
    "name": "American Strategic Investment Co.",
@@ -122,7 +74,7 @@
   },
   "0001824293-26-000070": {
    "accession": "0001824293-26-000070",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1824293,
    "form": "10-Q",
    "name": "GRI Bio, Inc.",
