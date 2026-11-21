@@ -2,7 +2,7 @@
  "queue": {
   "0001493152-26-053362": {
    "accession": "0001493152-26-053362",
-   "attempts": 4,
+   "attempts": 5,
    "cik": 1850767,
    "form": "10-Q",
    "name": "Accustem Sciences Inc.",
@@ -10,7 +10,7 @@
   },
   "0001493152-26-053529": {
    "accession": "0001493152-26-053529",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1445815,
    "form": "10-Q",
    "name": "BIOXYTRAN, INC",
@@ -18,7 +18,7 @@
   },
   "0001493152-26-053576": {
    "accession": "0001493152-26-053576",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1437517,
    "form": "10-Q",
    "name": "CYBERLOQ TECHNOLOGIES, INC.",
@@ -26,7 +26,7 @@
   },
   "0001712543-26-000063": {
    "accession": "0001712543-26-000063",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 878932,
    "form": "10-Q",
    "name": "EQUUS TOTAL RETURN, INC.",
@@ -34,7 +34,7 @@
   },
   "0001753926-26-002217": {
    "accession": "0001753926-26-002217",
-   "attempts": 3,
+   "attempts": 4,
    "cik": 1318268,
    "form": "10-Q",
    "name": "Madison Technologies Inc.",
